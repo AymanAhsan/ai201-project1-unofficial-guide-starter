@@ -20,6 +20,9 @@ copy .env.example .env   # then fill in GROQ_API_KEY
 ```powershell
 # Chunk reviews into documents/chunks.json
 python text_chunker.py
+
+# Embed chunks into ChromaDB (documents/chroma_db/)
+python embedder.py
 ```
 
 ## Project overview
@@ -30,7 +33,7 @@ This is an AI201 RAG (Retrieval-Augmented Generation) pipeline over student revi
 
 2. **Chunking** (`text_chunker.py`) — splits on `---` delimiters (one review = one chunk). Outputs `documents/chunks.json`: a list of dicts with `chunk_id`, `text`, `professor`, `course`, `rating`, `difficulty`.
 
-3. **Embedding + vector store** — planned: `sentence-transformers` (`all-MiniLM-L6-v2`) + `chromadb`.
+3. **Embedding + vector store** (`embedder.py`, `course_normalizer.py`) — loads `chunks.json`, normalizes course codes to canonical `MATH#####` form, embeds an enriched text string (`"Professor: X | Course: Y\n<review>"`) with `all-MiniLM-L6-v2`, and upserts into a persistent ChromaDB collection at `documents/chroma_db/`. Each ChromaDB entry carries full metadata: `professor`, `course_raw`, `course_normalized`, `rating`, `difficulty`.
 
 4. **Retrieval** — planned: top-k=10 semantic search over the ChromaDB collection.
 
@@ -42,8 +45,11 @@ This is an AI201 RAG (Retrieval-Augmented Generation) pipeline over student revi
 |------|---------|
 | `planning.md` | Spec: chunking rationale, retrieval design, 5 eval questions, architecture diagram |
 | `text_chunker.py` | Stage 2 — paragraph chunker, writes `documents/chunks.json` |
+| `course_normalizer.py` | Normalizes messy course strings to canonical `MATH#####` codes |
+| `embedder.py` | Stage 3 — embeds chunks, upserts into ChromaDB with metadata |
 | `documents/reviews.txt` | Raw source data (~781 reviews) |
 | `documents/chunks.json` | Output of chunker, input to embedder |
+| `documents/chroma_db/` | Persistent ChromaDB vector store (created by `embedder.py`) |
 | `README.md` | Submission template — fill in after each milestone |
 
 ## Env vars
