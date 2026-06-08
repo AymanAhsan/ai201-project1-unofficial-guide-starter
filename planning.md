@@ -75,7 +75,7 @@ The domain chosen is learning ratings for Mathematics professors at CCNY. This k
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | Is John Adamski known as the best professor? | Yes — John Adamski is highly rated in reviews.
-| 2 | Did Starshimer read the textbook for the first time mid class? | Yes — reviews indicate Starshimer was reading the textbook during class.
+| 2 | Did Starshimir read the textbook for the first time mid class? | Yes — reviews indicate Starshimir was reading the textbook during class.
 | 3 | What class is Strashimir Popvassilev good and bad for? | Good for Calculus 3; poor for Linear Algebra (per reviewer comments).
 | 4 | Who has a higher overall rating, Anthony Paolillo or John Adamski? | John Adamski has a higher overall rating than Anthony Paolillo.
 | 5 | Which professor does Zoom meetings on off days? | Doris Pichardo holds Zoom meetings on off days.

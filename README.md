@@ -97,7 +97,7 @@ It references which review it gets the information from by mentioning the profes
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | Is John Adamski known as the best professor? | Yes| Yes |Perfect | 100% |
-| 2 | Did Starshimer read the textbook for the first time mid class? |Yes students reported. | There is no information about a person named Starshimer in the provided reviews. | poor | 0% |
+| 2 | Did Starshimir read the textbook for the first time mid class? |Yes students reported. | Yes | Good | 100% |
 | 3 | What class is Strashimir Popvassilev good and bad for? | Good for Calculus 3; poor for Linear Algebra | Bases reviews through multiple classes | Good | 80% |
 | 4 |Who has a higher overall rating, Anthony Paolillo or John Adamski? | John Adamski | John Adamski | Good | 100% |
 | 5 | Which professor does Zoom meetings on off days? | Doris Picardo | Doris Picardo | Good | 100% |
