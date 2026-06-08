@@ -96,11 +96,12 @@ It references which review it gets the information from by mentioning the profes
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Is John Adamski known as the best professor? | Yes| Yes |Perfect | 100% |
+| 2 | Did Starshimer read the textbook for the first time mid class? |Yes students reported. | There is no information about a person named Starshimer in the provided reviews. | poor | 0% |
+| 3 | What class is Strashimir Popvassilev good and bad for? | Good for Calculus 3; poor for Linear Algebra | Bases reviews through multiple classes | Good | 80% |
+| 4 |Who has a higher overall rating, Anthony Paolillo or John Adamski? | John Adamski | John Adamski | Good | 100% |
+| 5 | Which professor does Zoom meetings on off days? | Doris Picardo | Doris Picardo | Good | 100% |
+Note on 5, answer does vary by review, but the system correctly identifies that Doris Picardo is the professor mentioned in reviews about Zoom meetings on off days.
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -155,11 +156,15 @@ The spec provided a clear framework for structuring the system's behavior and re
 **Instance 1**
 
 - *What I gave the AI:*
+I used Claude to scrape reviews from the 10 specified RateMyProfessors URLs. I provided the URLs and the requirement to extract review text, professor name, course name, and overall rating. I verified the output by checking that the scraped data includes these fields for each review and matches the content on the source pages.
 - *What it produced:*
+It produced a clean txt file with the scraped reviews, including the professor's name, course name, overall rating, and review text for each review.
 - *What I changed or overrode:*
 
 **Instance 2**
 
 - *What I gave the AI:*
+I also used Claude to generate the text chunking code in `text_chunker.py` based on the Chunking Strategy section. I provided the specific chunk size (paragraph-based) and overlap (none) requirements. I verified the output by running the chunking function on sample reviews and checking that chunks correspond to individual reviews without splitting sentences.
 - *What it produced:*
+It produced a Python function that splits the input text into chunks based on the "---" separator, which corresponds to individual reviews, without any overlap.
 - *What I changed or overrode:*

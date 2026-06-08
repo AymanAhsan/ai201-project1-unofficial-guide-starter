@@ -20,7 +20,7 @@ def chunk_reviews(filepath: str) -> list[dict]:
 
         # Extract metadata from the header line if present
         lines = block.splitlines()
-        header = lines[0] if lines else ""
+        header = next((l for l in lines if "|" in l), "")
         if "|" in header:
             parts = [p.strip() for p in header.split("|")]
             for part in parts:

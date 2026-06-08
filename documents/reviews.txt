@@ -1,3 +1,6 @@
+
+
+Review #0
 Professor: Sergiy Merenkov | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -6,6 +9,7 @@ Review: "human dogshi"
 
 ---
 
+Review #1
 Professor: Sergiy Merenkov | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -14,6 +18,7 @@ Review: "AVOID BY ALL MEANS, HE WILL NOT CURVE THE EXAMS HE FAILED 80 PERCENT OF
 
 ---
 
+Review #2
 Professor: Sergiy Merenkov | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy]
@@ -22,6 +27,7 @@ Review: "Avoid by all means."
 
 ---
 
+Review #3
 Professor: Sergiy Merenkov | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -30,6 +36,7 @@ Review: "genuinely if you have him for calc 1 unenroll and enroll to someone els
 
 ---
 
+Review #4
 Professor: Sergiy Merenkov | Course: MATH201 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Get ready to read]
@@ -38,6 +45,7 @@ Review: "Do not take him. He does not have any practice exams and his exams are 
 
 ---
 
+Review #5
 Professor: Sergiy Merenkov | Course: CALC209 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy]
@@ -46,6 +54,7 @@ Review: "One hundred sixty-two thousand dollars in salary, total compensation to
 
 ---
 
+Review #6
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -54,6 +63,7 @@ Review: "Midterms are kind of fair but his final exam is worth so much and it wi
 
 ---
 
+Review #7
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -62,6 +72,7 @@ Review: "Thought he would be good based on his last reviews but I was wrong"
 
 ---
 
+Review #8
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -74,6 +85,7 @@ He doesn't curve at all even if you're just a few points off of passing."
 
 ---
 
+Review #9
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -82,6 +94,7 @@ Review: "and all grades were based on these three tests. The 2025 final exam was
 
 ---
 
+Review #10
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -90,6 +103,7 @@ Review: "3 tests none get dropped + the final, no homework grade literally 50/50
 
 ---
 
+Review #11
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Lecture heavy, Test heavy]
@@ -98,6 +112,7 @@ Review: "Exams are relatively simple and he is generous with partial credit. You
 
 ---
 
+Review #12
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Caring, Lecture heavy, Test heavy]
@@ -106,6 +121,7 @@ Review: "Generally a good professor. Calc 3 is tough but his exams are simple an
 
 ---
 
+Review #13
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Respected]
@@ -114,6 +130,7 @@ Review: "One of the best math professors ive ever taken. Very good at explaining
 
 ---
 
+Review #14
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -122,6 +139,7 @@ Review: "Just had him this semester. He's a good teacher, lets get that out the 
 
 ---
 
+Review #15
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Test heavy, Graded by few things]
@@ -130,6 +148,7 @@ Review: "Not the worst but not the best. Grading criterial is as follows: Midter
 
 ---
 
+Review #16
 Professor: Sergiy Merenkov | Course: MATH34600 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Test heavy]
@@ -138,6 +157,7 @@ Review: "Good professor. 2 midterms, 27.5% ea., 5% hwk, 40% final. Class isn't d
 
 ---
 
+Review #17
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -146,6 +166,7 @@ Review: "This class made me Miserable. The professor was difficult to understand
 
 ---
 
+Review #18
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -154,6 +175,7 @@ Review: "Avoid."
 
 ---
 
+Review #19
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Test heavy, Graded by few things]
@@ -162,6 +184,7 @@ Review: "I was apprehensive because of the reviews, but he is honestly great. He
 
 ---
 
+Review #20
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Caring, Test heavy]
@@ -170,6 +193,7 @@ Review: "Honestly, he was a great professor; his lectures were confusing at time
 
 ---
 
+Review #21
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Hilarious, Graded by few things]
@@ -178,6 +202,7 @@ Review: "Don't take him..... won't pass."
 
 ---
 
+Review #22
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Respected, Skip class? You won't pass., Tough grader]
@@ -186,6 +211,7 @@ Review: "He speaks nice but dont take him. He does not care about effort or your
 
 ---
 
+Review #23
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Graded by few things, Test heavy]
@@ -194,6 +220,7 @@ Review: "he is clear, responsible, and caring but your grade relies on tests(90%
 
 ---
 
+Review #24
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Skip class? You won't pass., Graded by few things, Tough grader]
@@ -202,6 +229,7 @@ Review: "Don't get trapped by the fives he has, im not a bad student,and killed 
 
 ---
 
+Review #25
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Respected, Skip class? You won't pass., Tough grader]
@@ -210,6 +238,7 @@ Review: "I really respect him and he is kind. However, his grading policy is wor
 
 ---
 
+Review #26
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Get ready to read, Lots of homework]
@@ -218,6 +247,7 @@ Review: "Professor Merenkov is a very enthusiastic and learned man no . He knows
 
 ---
 
+Review #27
 Professor: Sergiy Merenkov | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Graded by few things]
@@ -226,6 +256,7 @@ Review: "Very kind and let us express our concerns often, and pretty good at exp
 
 ---
 
+Review #28
 Professor: Sergiy Merenkov | Course: MATH375 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Skip class? You won't pass., Test heavy, Tough grader]
@@ -234,6 +265,7 @@ Review: "Avoid as much as possible if u care about ur GPA. He knows his stuff bu
 
 ---
 
+Review #29
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Respected, Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -242,6 +274,7 @@ Review: "Prof Merenkov is tough but fair. 50% split on 2 MTs. 40% final. 10% HW.
 
 ---
 
+Review #30
 Professor: Sergiy Merenkov | Course: MATH39200 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, ACCESSIBLE OUTSIDE CLASS, Caring]
@@ -250,6 +283,7 @@ Review: "He's great at teaching and his test are fairly simple with no tricky wo
 
 ---
 
+Review #31
 Professor: Sergiy Merenkov | Course: MATH39200 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Skip class? You won't pass., TEST HEAVY, LECTURE HEAVY]
@@ -258,6 +292,7 @@ Review: "Professor Merenkov teaches very well. The material is hard and does har
 
 ---
 
+Review #32
 Professor: Sergiy Merenkov | Course: MATH392 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough Grader, ACCESSIBLE OUTSIDE CLASS, Caring]
@@ -266,6 +301,7 @@ Review: "He cares for his students. I did very poorly on the midterms (silly mis
 
 ---
 
+Review #33
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -274,6 +310,7 @@ Review: "He overcomplicates the material and assigns online HW with questions th
 
 ---
 
+Review #34
 Professor: Sergiy Merenkov | Course: MATH392 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, TEST HEAVY, Would take again]
@@ -282,6 +319,7 @@ Review: "Took him for 392 last summer. He is a great professor. Goes over and ex
 
 ---
 
+Review #35
 Professor: Sergiy Merenkov | Course: MATH34600 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [GRADED BY FEW THINGS]
@@ -290,6 +328,7 @@ Review: "Merenkov's lectures are very straightforward. He provides examples and 
 
 ---
 
+Review #36
 Professor: Sergiy Merenkov | Course: MATH308 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Inspirational, ACCESSIBLE OUTSIDE CLASS]
@@ -298,6 +337,7 @@ Review: "He is a great professor, If you love Math take him."
 
 ---
 
+Review #37
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -306,6 +346,7 @@ Review: "He is a horrible teacher and not helpful at all."
 
 ---
 
+Review #38
 Professor: Sergiy Merenkov | Course: MATH346 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [TEST HEAVY, GRADED BY FEW THINGS, LECTURE HEAVY]
@@ -314,6 +355,7 @@ Review: "Chill guy. Clear teaching style. Examples given and homework problems a
 
 ---
 
+Review #39
 Professor: Sergiy Merenkov | Course: CALC209 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, GRADED BY FEW THINGS, Caring]
@@ -322,6 +364,7 @@ Review: "Tough class but hes a pretty decent prof! Only 2 midterms. If you study
 
 ---
 
+Review #40
 Professor: Sergiy Merenkov | Course: MATH209 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [LOTS OF HOMEWORK, TEST HEAVY]
@@ -330,6 +373,7 @@ Review: "worst decision of taking him... his language is awful and he does not c
 
 ---
 
+Review #41
 Professor: Sergiy Merenkov | Course: MATH209 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: []
@@ -338,6 +382,7 @@ Review: "He is a good professor. He explains well. HW is mandatory. I really hat
 
 ---
 
+Review #42
 Professor: Sergiy Merenkov | Course: MATH392 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Respected, Clear grading criteria]
@@ -346,6 +391,7 @@ Review: "One of the few math professors in this world, who makes my brain really
 
 ---
 
+Review #43
 Professor: Sergiy Merenkov | Course: MAT39200 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -354,6 +400,7 @@ Review: "Ok, plain and simple. The man doesn't sugarcoat and material is hard to
 
 ---
 
+Review #44
 Professor: Sergiy Merenkov | Course: MATH203 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -362,6 +409,7 @@ Review: "Mr. Merenkov was very nice and knew how to teach! However CCNY for some
 
 ---
 
+Review #45
 Professor: Sergiy Merenkov | Course: MAT203 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -370,6 +418,7 @@ Review: "Terrible terrible terrible. It seems like most math professors at ccny 
 
 ---
 
+Review #46
 Professor: Sergiy Merenkov | Course: MATH203 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -378,6 +427,7 @@ Review: "Very difficult professor. Curves harshly, tests were computerized, and 
 
 ---
 
+Review #47
 Professor: Sergiy Merenkov | Course: MATH203 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -386,6 +436,7 @@ Review: "Does not prepare you for exams, which accounts for the majority of  the
 
 ---
 
+Review #48
 Professor: Sergiy Merenkov | Course: 375 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -394,6 +445,7 @@ Review: "This is one of the better professors that I have had at CCNY! He genuin
 
 ---
 
+Review #49
 Professor: Sergiy Merenkov | Course: 39200 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -402,6 +454,7 @@ Review: "he has a bit russia accent in the class; but generally i could understn
 
 ---
 
+Review #50
 Professor: John Adamski | Course: MATH20100 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Respected]
@@ -410,6 +463,7 @@ Review: "Prof Adamski is amazing , moves swiftly through lectures. there is a lo
 
 ---
 
+Review #51
 Professor: John Adamski | Course: MATH20100 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Amazing lectures, Clear grading criteria, Gives good feedback]
@@ -418,6 +472,7 @@ Review: "Took Calc 1 with him. He's really chill. Homework is up to 5 points of 
 
 ---
 
+Review #52
 Professor: John Adamski | Course: MATH20100 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Gives good feedback]
@@ -426,6 +481,7 @@ Review: "very good teacher, I hope he lives a long happy life. There's extra cre
 
 ---
 
+Review #53
 Professor: John Adamski | Course: CALC1 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT, Group projects, Respected]
@@ -434,6 +490,7 @@ Review: "i'm currently taking the class with John. he is a great professor. firs
 
 ---
 
+Review #54
 Professor: John Adamski | Course: MATH20100 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Amazing lectures, Lecture heavy, Accessible outside class]
@@ -442,6 +499,7 @@ Review: "professor adamski provides clear expectations and lots of advice. he go
 
 ---
 
+Review #55
 Professor: John Adamski | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Caring, Respected]
@@ -450,6 +508,7 @@ Review: "One of the Best math professor's I've had so far. He is great. Lectures
 
 ---
 
+Review #56
 Professor: John Adamski | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Graded by few things, Accessible outside class]
@@ -458,6 +517,7 @@ Review: "Super chill, best math prof I've had. But people think because they hav
 
 ---
 
+Review #57
 Professor: John Adamski | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Amazing lectures, Lecture heavy, Graded by few things]
@@ -466,6 +526,7 @@ Review: "The chillest professor I have had so far. Daily homework but it's not m
 
 ---
 
+Review #58
 Professor: John Adamski | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Clear grading criteria, Caring]
@@ -474,6 +535,7 @@ Review: "Great prof. Good lectures (sometimes a bit slow but he wants everyone i
 
 ---
 
+Review #59
 Professor: John Adamski | Course: MATH212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Test heavy, Accessible outside class]
@@ -482,6 +544,7 @@ Review: "Professor Adamski is an amazing lecturer and a great person! It's clear
 
 ---
 
+Review #60
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Gives good feedback, Caring]
@@ -490,6 +553,7 @@ Review: "If anyone asks who's the best professor you've had at CCNY, Dr. Adamski
 
 ---
 
+Review #61
 Professor: John Adamski | Course: MATH212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Inspirational, Test heavy]
@@ -498,6 +562,7 @@ Review: "I have to agree that professor Adamski is one of the greatest to exist;
 
 ---
 
+Review #62
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Amazing lectures, Clear grading criteria, Respected]
@@ -506,6 +571,7 @@ Review: "This is the first time I am Rating a Professor; Professor Adamski is ju
 
 ---
 
+Review #63
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Caring, Accessible outside class]
@@ -514,6 +580,7 @@ Review: "For this class you will definitely need to take your time to invest int
 
 ---
 
+Review #64
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Test heavy, Accessible outside class]
@@ -522,6 +589,7 @@ Review: "His lectures are very clear and easy to follow. He explains things very
 
 ---
 
+Review #65
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Caring, Online Savvy]
@@ -530,6 +598,7 @@ Review: "I had him this semester and he was by far one of the best math professo
 
 ---
 
+Review #66
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Caring, Accessible outside class]
@@ -538,6 +607,7 @@ Review: "One of the best professors at ccny. His lectures are very easy to under
 
 ---
 
+Review #67
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Clear grading criteria, Gives good feedback]
@@ -546,6 +616,7 @@ Review: "Best 190 prof at CCNY"
 
 ---
 
+Review #68
 Professor: John Adamski | Course: MATH21200 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Amazing lectures, Lecture heavy]
@@ -554,6 +625,7 @@ Review: "Adamski is simply amazing. I had him online and he recorded and posted 
 
 ---
 
+Review #69
 Professor: John Adamski | Course: CALC1206 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Test heavy]
@@ -562,6 +634,7 @@ Review: "Class is structured in a way where achieving a B+ or A- is very do-able
 
 ---
 
+Review #70
 Professor: John Adamski | Course: MATH1108 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Clear grading criteria]
@@ -570,6 +643,7 @@ Review: "Pretty standard as a math professor goes. He teaches through lectures l
 
 ---
 
+Review #71
 Professor: John Adamski | Course: MATH21200 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Inspirational, Caring]
@@ -578,6 +652,7 @@ Review: "Overall a good caring professor who truly cares about us. Teaches very 
 
 ---
 
+Review #72
 Professor: John Adamski | Course: MATH212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Accessible outside class, Caring]
@@ -586,6 +661,7 @@ Review: "Probably the best math professor in city. John is very caring and makes
 
 ---
 
+Review #73
 Professor: John Adamski | Course: MATH1100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Accessible outside class, Graded by few things]
@@ -594,6 +670,7 @@ Review: "Always maintained a calm, positive attitude during lectures. HW materia
 
 ---
 
+Review #74
 Professor: John Adamski | Course: MATH195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Hilarious, Caring, EXTRA CREDIT]
@@ -602,6 +679,7 @@ Review: "probably the best math professor I had at CCNY. he genuinely cares and 
 
 ---
 
+Review #75
 Professor: John Adamski | Course: MATH1730 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -610,6 +688,7 @@ Review: "Awesome professor and he posts all the notes online so you dont struggl
 
 ---
 
+Review #76
 Professor: John Adamski | Course: MATH20300 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, ACCESSIBLE OUTSIDE CLASS, Caring]
@@ -618,6 +697,7 @@ Review: "Great, kind, relatable professor. Means well for his students, does his
 
 ---
 
+Review #77
 Professor: John Adamski | Course: MATH20300 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Amazing lectures]
@@ -626,6 +706,7 @@ Review: "He is an awesome teacher. I found few teachers like him. He is one of t
 
 ---
 
+Review #78
 Professor: John Adamski | Course: CALC202 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Skip class? You won't pass., Amazing lectures]
@@ -634,6 +715,7 @@ Review: "I recommend him to take because he provides much effort to teach the st
 
 ---
 
+Review #79
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Amazing lectures, EXTRA CREDIT]
@@ -642,6 +724,7 @@ Review: "he is an amazing teacher very nice and easy he knows how to teach and h
 
 ---
 
+Review #80
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Respected, Inspirational, Caring]
@@ -650,6 +733,7 @@ Review: "Calculus 2 is about practice. He makes sure that students don't get sca
 
 ---
 
+Review #81
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Amazing lectures, Caring]
@@ -658,6 +742,7 @@ Review: "He is the best professor for Math,He's totally a life saver. very diffi
 
 ---
 
+Review #82
 Professor: John Adamski | Course: CALC1 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Respected, Clear grading criteria, Caring]
@@ -666,6 +751,7 @@ Review: "The nicest person on Earth, he really cares about students and helps th
 
 ---
 
+Review #83
 Professor: John Adamski | Course: MATH20300 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Clear grading criteria, EXTRA CREDIT]
@@ -674,6 +760,7 @@ Review: "John is a true legend. He is very knowledgable and passionate about wha
 
 ---
 
+Review #84
 Professor: John Adamski | Course: CALC205 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Respected, Caring, Would take again]
@@ -682,6 +769,7 @@ Review: "John would be a strategic choice to take any math course with. He is ou
 
 ---
 
+Review #85
 Professor: John Adamski | Course: MATH20300 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Amazing lectures, Caring, Would take again]
@@ -690,6 +778,7 @@ Review: "JOHN IS THE MANNN! He is a PhD student and teaches 1-2 classes per term
 
 ---
 
+Review #86
 Professor: John Adamski | Course: MATH205 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Caring, Would take again]
@@ -698,6 +787,7 @@ Review: "John equals excellence, he is the best professor I ever took at CCNY. R
 
 ---
 
+Review #87
 Professor: John Adamski | Course: MATH205 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, GRADED BY FEW THINGS, Would take again]
@@ -706,6 +796,7 @@ Review: "John is probably the best math professor I've had. he takes his time ex
 
 ---
 
+Review #88
 Professor: John Adamski | Course: MAT173 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Clear grading criteria, Amazing lectures]
@@ -714,6 +805,7 @@ Review: "everybody already said everything so TAKE HIM. he's the only professor 
 
 ---
 
+Review #89
 Professor: John Adamski | Course: MATH173 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, LOTS OF HOMEWORK, Clear grading criteria]
@@ -722,6 +814,7 @@ Review: "He's a lovely person who helps out, even during quizzes and takes feedb
 
 ---
 
+Review #90
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, Clear grading criteria, Hilarious]
@@ -730,6 +823,7 @@ Review: "One of the best teachers at CCNY. Not only does he take time in teachin
 
 ---
 
+Review #91
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -738,6 +832,7 @@ Review: "Prof. Adamski is probably the best math teacher in CCNY. The workload a
 
 ---
 
+Review #92
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -746,6 +841,7 @@ Review: "This Prof is awesome he really wants you to understand the material , d
 
 ---
 
+Review #93
 Professor: John Adamski | Course: MATH20100 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -754,6 +850,7 @@ Review: "So there's not much to say, I think everybody's got it covered. But I c
 
 ---
 
+Review #94
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -762,6 +859,7 @@ Review: "best calc professor out there. 4 exams drops the lowest. last quiz was 
 
 ---
 
+Review #95
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -770,6 +868,7 @@ Review: "Great professor! He's really easygoing and teaches the material really 
 
 ---
 
+Review #96
 Professor: John Adamski | Course: CALC202 | Rating: 4.5 | Difficulty: 3.0
 
 Tags: []
@@ -778,6 +877,7 @@ Review: "Great professor. Makes everything look so easy because it's so intuitiv
 
 ---
 
+Review #97
 Professor: John Adamski | Course: CALC202 | Rating: 3.5 | Difficulty: 3.0
 
 Tags: []
@@ -786,6 +886,7 @@ Review: "His class is not hard if you do the homework assigned, however the home
 
 ---
 
+Review #98
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -794,6 +895,7 @@ Review: "He is very helpful. He always explains things in easy ways that student
 
 ---
 
+Review #99
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -802,6 +904,7 @@ Review: "John is the BEST math teacher ever! He is beyond helpful and very patie
 
 ---
 
+Review #100
 Professor: John Adamski | Course: MATH195 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -810,6 +913,7 @@ Review: "Best math teacher I've ever had. Perfect personality for teaching. Ridi
 
 ---
 
+Review #101
 Professor: John Adamski | Course: MATH195 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -818,6 +922,7 @@ Review: "Easy professor hard material, he is always willing to help the students
 
 ---
 
+Review #102
 Professor: John Adamski | Course: MATH20200 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -826,6 +931,7 @@ Review: "John Adamski is the best math professor, he respects students and stude
 
 ---
 
+Review #103
 Professor: John Adamski | Course: 20500 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -834,6 +940,7 @@ Review: "If you need help he is there. He also makes sure he gives you opportuni
 
 ---
 
+Review #104
 Professor: John Adamski | Course: MATH202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -842,6 +949,7 @@ Review: "take him, his awesome!"
 
 ---
 
+Review #105
 Professor: John Adamski | Course: MATH20200 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -850,6 +958,7 @@ Review: "Smart, clear, patient (very patient) and caring. John might be the nice
 
 ---
 
+Review #106
 Professor: John Adamski | Course: 203 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -858,6 +967,7 @@ Review: "John is a great guy. Really chilled about attendance. He does not colle
 
 ---
 
+Review #107
 Professor: John Adamski | Course: MATH20300 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -866,6 +976,7 @@ Review: "Awesome personality. Cares about students. Available via email all the 
 
 ---
 
+Review #108
 Professor: John Adamski | Course: 203 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -874,6 +985,7 @@ Review: "Really great professor for Calculus 3. I learned a lot in his class. He
 
 ---
 
+Review #109
 Professor: John Adamski | Course: 202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -882,6 +994,7 @@ Review: "Math Angel, enough said! John cares for his students and wants them to 
 
 ---
 
+Review #110
 Professor: John Adamski | Course: 20300 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -890,6 +1003,7 @@ Review: "While the class certainly isn't an easy one, John makes it no more diff
 
 ---
 
+Review #111
 Professor: John Adamski | Course: 20300 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -898,6 +1012,7 @@ Review: "John is the nicest professor you could ask for. His quizzes are short a
 
 ---
 
+Review #112
 Professor: John Adamski | Course: 20200 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -906,6 +1021,7 @@ Review: "John is the BEST professor alive!!"
 
 ---
 
+Review #113
 Professor: John Adamski | Course: MATH202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -914,6 +1030,7 @@ Review: "Had him for the summer '14 for Math 202 & he made it so much clearer! H
 
 ---
 
+Review #114
 Professor: John Adamski | Course: 202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -922,6 +1039,7 @@ Review: "John is a math angel that fell from math heaven. Nuff said."
 
 ---
 
+Review #115
 Professor: John Adamski | Course: MAT202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -930,6 +1048,7 @@ Review: "Probably one of the simplest and funniest professors to have him for  t
 
 ---
 
+Review #116
 Professor: John Adamski | Course: CALC202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -938,6 +1057,7 @@ Review: "Adamski is the best BEST professor at CCNY. He knows his materials very
 
 ---
 
+Review #117
 Professor: John Adamski | Course: MATH391 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -946,6 +1066,7 @@ Review: "Did an excellent job teaching the complicated diff equations material. 
 
 ---
 
+Review #118
 Professor: John Adamski | Course: MATH202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -954,6 +1075,7 @@ Review: "Simply the best Calc prof I could imagine. Easygoing, excellent grader.
 
 ---
 
+Review #119
 Professor: John Adamski | Course: CALC202 | Rating: 4.5 | Difficulty: 1.0
 
 Tags: []
@@ -962,6 +1084,7 @@ Review: "One of the best math professors without a doubt. I am saying this not o
 
 ---
 
+Review #120
 Professor: John Adamski | Course: MATH392 | Rating: 4.5 | Difficulty: 3.0
 
 Tags: []
@@ -970,6 +1093,7 @@ Review: "Awesome Professor. Knows his subject really well and is always eager to
 
 ---
 
+Review #121
 Professor: John Adamski | Course: CALC1 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -978,6 +1102,7 @@ Review: "He is the best teacher you could have for math. he makes everything loo
 
 ---
 
+Review #122
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -986,6 +1111,7 @@ Review: "This Professor is truly great and this is how all math teachers should 
 
 ---
 
+Review #123
 Professor: John Adamski | Course: MATH190 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -994,6 +1120,7 @@ Review: "Really good professor, teaches material at a good pace and is a lenient
 
 ---
 
+Review #124
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Hilarious, Accessible outside class]
@@ -1002,6 +1129,7 @@ Review: "You will fail his class very easily, because he is very unorganized Pro
 
 ---
 
+Review #125
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures]
@@ -1010,6 +1138,7 @@ Review: "Fantastic prof!"
 
 ---
 
+Review #126
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Caring]
@@ -1018,6 +1147,7 @@ Review: "Great professor right here, he gives all the extra credit he can to hel
 
 ---
 
+Review #127
 Professor: Asohan Amarasingham | Course: MATH201 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback]
@@ -1026,6 +1156,7 @@ Review: "You can tell he wants to help. I was just too lost. He's a good profess
 
 ---
 
+Review #128
 Professor: Asohan Amarasingham | Course: MATH201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, Respected, Caring]
@@ -1034,6 +1165,7 @@ Review: "How to do well in this class -Read the textbook, if you don't understan
 
 ---
 
+Review #129
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -1042,6 +1174,7 @@ Review: "This guy is so hard headed, he wont take your struggling as a sign to e
 
 ---
 
+Review #130
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Amazing lectures]
@@ -1050,6 +1183,7 @@ Review: "Great prof who knows the subject inside out and doesn't shy away from i
 
 ---
 
+Review #131
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Amazing lectures]
@@ -1058,6 +1192,7 @@ Review: "It was a really insightful course on probability theory, despite it bei
 
 ---
 
+Review #132
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Hilarious, Tough grader]
@@ -1066,6 +1201,7 @@ Review: "Worst professor I ever seen. Cant teach properly. Teaching easy stuff a
 
 ---
 
+Review #133
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Inspirational]
@@ -1074,6 +1210,7 @@ Review: "The material was challenging but interesting, and the lectures were fas
 
 ---
 
+Review #134
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1082,6 +1219,7 @@ Review: "His problems include 100-dimensional matrices and complex functions. Yo
 
 ---
 
+Review #135
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1090,6 +1228,7 @@ Review: "His class is torture/soul-crushing experience. You will learn quickly t
 
 ---
 
+Review #136
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1098,6 +1237,7 @@ Review: "This professor's lectures are not clear and helpful. A lot of statistic
 
 ---
 
+Review #137
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Lecture heavy]
@@ -1106,6 +1246,7 @@ Review: "Don't take this class if you have no programming experience! There's no
 
 ---
 
+Review #138
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., ACCESSIBLE OUTSIDE CLASS, Caring]
@@ -1114,6 +1255,7 @@ Review: "He's really knowledgeable and explains the material clearly. He made su
 
 ---
 
+Review #139
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, ACCESSIBLE OUTSIDE CLASS, Amazing lectures]
@@ -1122,6 +1264,7 @@ Review: "He is amazing. Moderate Easy/Moderate Hard. His HWs are from the book. 
 
 ---
 
+Review #140
 Professor: Asohan Amarasingham | Course: A7800 | Rating: 4.5 | Difficulty: 5.0
 
 Tags: []
@@ -1130,6 +1273,7 @@ Review: "Probably the best professor I had at CCNY."
 
 ---
 
+Review #141
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 4.5 | Difficulty: 4.0
 
 Tags: []
@@ -1138,6 +1282,7 @@ Review: "The assignments were too hard and he could have been more accommodating
 
 ---
 
+Review #142
 Professor: Asohan Amarasingham | Course: MATHA7700 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1146,6 +1291,7 @@ Review: "the only thing good about this professor is he does not fail students. 
 
 ---
 
+Review #143
 Professor: Asohan Amarasingham | Course: MATHA7700 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1154,6 +1300,7 @@ Review: "he is hard!"
 
 ---
 
+Review #144
 Professor: Asohan Amarasingham | Course: MATHA7700 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -1162,6 +1309,7 @@ Review: "Matlab homework(60%) + midterm(20%) + final(20%). His homework assignme
 
 ---
 
+Review #145
 Professor: Asohan Amarasingham | Course: MATHA7700 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -1170,6 +1318,7 @@ Review: "Homework  & exams are hard. No textbook (his lecture notes are extremel
 
 ---
 
+Review #146
 Professor: Asohan Amarasingham | Course: MATH375 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -1178,6 +1327,7 @@ Review: "only u have do his home work. HW problems in exams most of time or very
 
 ---
 
+Review #147
 Professor: Asohan Amarasingham | Course: MATH377 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -1186,6 +1336,7 @@ Review: "He's good. You're gonna have to work tho'.."
 
 ---
 
+Review #148
 Professor: Asohan Amarasingham | Course: MATH209 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -1194,6 +1345,7 @@ Review: "He is easy to understand and shows that he is interested in getting his
 
 ---
 
+Review #149
 Professor: Asohan Amarasingham | Course: MATH209 | Rating: 3.5 | Difficulty: 2.0
 
 Tags: []
@@ -1202,6 +1354,7 @@ Review: "Dont be fooled by the lack of detail in class or his lateness. When it 
 
 ---
 
+Review #150
 Professor: Joseph Dacanay | Course: math205 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Gives good feedback]
@@ -1210,6 +1363,7 @@ Review: "He's a very good professor. Trust"
 
 ---
 
+Review #151
 Professor: Joseph Dacanay | Course: math205 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Participation matters, EXTRA CREDIT, Accessible outside class]
@@ -1218,6 +1372,7 @@ Review: "math 201*. Honestly a good prof, he moves a bit fast but is always will
 
 ---
 
+Review #152
 Professor: Joseph Dacanay | Course: math205 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Gives good feedback, Caring]
@@ -1226,6 +1381,7 @@ Review: "I don't understand the low ratings. Yes, the class was challenging, but
 
 ---
 
+Review #153
 Professor: Joseph Dacanay | Course: math205 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Hilarious, Test heavy]
@@ -1234,6 +1390,7 @@ Review: "Tbh the ratings are Lowkey too harsh for proffesor. I really enjoyed hi
 
 ---
 
+Review #154
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: [Lots of homework]
@@ -1242,6 +1399,7 @@ Review: "Honestly as long as you pay attention and take good notes you'll be fin
 
 ---
 
+Review #155
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Lots of homework, Lecture heavy, Test heavy]
@@ -1250,6 +1408,7 @@ Review: "Don't understand the low ratings because he's kind of a chill dude. Hon
 
 ---
 
+Review #156
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -1258,6 +1417,7 @@ Review: "Overall good class, he likes to crack jokes sometimes. However I would 
 
 ---
 
+Review #157
 Professor: Joseph Dacanay | Course: math205 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -1266,6 +1426,7 @@ Review: "I would never take this prof again. I never dreaded a class as much as 
 
 ---
 
+Review #158
 Professor: Joseph Dacanay | Course: math205 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -1274,6 +1435,7 @@ Review: "He is so bad at teaching but he showed us mercy with extra credits; so 
 
 ---
 
+Review #159
 Professor: Joseph Dacanay | Course: MATH80000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -1282,6 +1444,7 @@ Review: "Do not take Professor Joseph Dacanay."
 
 ---
 
+Review #160
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Lecture heavy]
@@ -1290,6 +1453,7 @@ Review: "You need to study by yourself. I couldn't hold my concentration for mor
 
 ---
 
+Review #161
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Graded by few things, Accessible outside class]
@@ -1298,6 +1462,7 @@ Review: "if you're scared of taking him due to a 2.5avg, don't. He teaches LOWER
 
 ---
 
+Review #162
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -1306,6 +1471,7 @@ Review: "Bro, this man acts like he's the Flash when teaching. He goes through t
 
 ---
 
+Review #163
 Professor: Joseph Dacanay | Course: math205 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT]
@@ -1315,6 +1481,7 @@ If you do all the homework and pass quiz and in class exams you will pass the cl
 
 ---
 
+Review #164
 Professor: Joseph Dacanay | Course: math205 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -1323,6 +1490,7 @@ Review: "Does not know how to teach. He also stands in-front of the board when h
 
 ---
 
+Review #165
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []
@@ -1331,6 +1499,7 @@ Review: "This Professor is nice and funny, but he goes through everything too fa
 
 ---
 
+Review #166
 Professor: Joseph Dacanay | Course: math205 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Lots of homework, Hilarious]
@@ -1339,6 +1508,7 @@ Review: "Great at explaining topics, always helpful during office hours, fair te
 
 ---
 
+Review #167
 Professor: Joseph Dacanay | Course: math205 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Beware of pop quizzes, Test heavy]
@@ -1347,6 +1517,7 @@ Review: "Prof Dacanay is absolutely horrible. He whispers into the board so its 
 
 ---
 
+Review #168
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -1355,6 +1526,7 @@ Review: "don,t take this class if you want to pass math"
 
 ---
 
+Review #169
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader]
@@ -1363,6 +1535,7 @@ Review: "horrible professor i would not recommend taking a math class with him b
 
 ---
 
+Review #170
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader]
@@ -1371,6 +1544,7 @@ Review: "Horrible Professor. I would not recommend taking a math class with him.
 
 ---
 
+Review #171
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -1379,6 +1553,7 @@ Review: "Every time i had this class on my schedule i was miserable. I withdrew 
 
 ---
 
+Review #172
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -1387,6 +1562,7 @@ Review: "I dropped the class because the professor was moving too fast for me. I
 
 ---
 
+Review #173
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, Lots of homework, Test heavy]
@@ -1395,6 +1571,7 @@ Review: "Just make sure you understand the materials. If you don't, just ask him
 
 ---
 
+Review #174
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Accessible outside class]
@@ -1403,6 +1580,7 @@ Review: "This is a professor who wants you to succeed. He is available for offic
 
 ---
 
+Review #175
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Test heavy, Graded by few things]
@@ -1411,6 +1589,7 @@ Review: "I took Joseph Dacanay's Math150 in the Fall of 2023, and I quickly real
 
 ---
 
+Review #176
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Gives good feedback]
@@ -1419,6 +1598,7 @@ Review: "he is a good professor. Even though he takes attendance every class but
 
 ---
 
+Review #177
 Professor: Joseph Dacanay | Course: MATH80000 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Beware of pop quizzes, Test heavy]
@@ -1427,6 +1607,7 @@ Review: "He is a nice professor but he is a tough grader. I took him in fall 202
 
 ---
 
+Review #178
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Beware of pop quizzes, Test heavy]
@@ -1435,6 +1616,7 @@ Review: "The professor is unfailingly difficult to understand as he rushes throu
 
 ---
 
+Review #179
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -1443,6 +1625,7 @@ Review: "I only took this class because I needed it to graduate. He doesn't upgr
 
 ---
 
+Review #180
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Lecture heavy]
@@ -1451,6 +1634,7 @@ Review: "Amazing professor, do the work an you will pass. Quizzes every class, s
 
 ---
 
+Review #181
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Beware of pop quizzes]
@@ -1459,6 +1643,7 @@ Review: "this class made me more miserable than my intro to political theory cla
 
 ---
 
+Review #182
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Hilarious, Clear grading criteria]
@@ -1467,6 +1652,7 @@ Review: "The Professor is a somewhat of a tough grader but his grading criteria 
 
 ---
 
+Review #183
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Test heavy]
@@ -1475,6 +1661,7 @@ Review: "Lots of quizzes and homework. Doesn't update grades so you're pretty mu
 
 ---
 
+Review #184
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -1483,6 +1670,7 @@ Review: "I don't understand why he has such bad reviews.i had him for inperson a
 
 ---
 
+Review #185
 Professor: Joseph Dacanay | Course: MATH80000 | Rating: 3.0 | Difficulty: 1.0
 
 Tags: [Lots of homework, Lecture heavy]
@@ -1491,6 +1679,7 @@ Review: "I had to take math 80 during the summer so that i could go on to colleg
 
 ---
 
+Review #186
 Professor: Joseph Dacanay | Course: MATH80000 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Tough grader]
@@ -1499,6 +1688,7 @@ Review: "Ignore the goofs comment above lol. Dacanay looks down on other student
 
 ---
 
+Review #187
 Professor: Joseph Dacanay | Course: MATH80 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Accessible outside class, Test heavy]
@@ -1507,6 +1697,7 @@ Review: "A lot of the classes he teaches are basic math courses, so he gets a lo
 
 ---
 
+Review #188
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Graded by few things, So many papers]
@@ -1515,6 +1706,7 @@ Review: "This class was unbelievably frustrating. Even though the material was p
 
 ---
 
+Review #189
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Skip class? You won't pass., Lecture heavy]
@@ -1523,6 +1715,7 @@ Review: "Didnt see his face the whole semester unless we had to go on campus for
 
 ---
 
+Review #190
 Professor: Joseph Dacanay | Course: MATH15000 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Graded by few things, So many papers, Tough grader]
@@ -1531,6 +1724,7 @@ Review: "we don't have any mandatory homework but we do have 6 essays that have 
 
 ---
 
+Review #191
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -1539,6 +1733,7 @@ Review: "His online classes put me to sleep. Haven't seen his face for an entire
 
 ---
 
+Review #192
 Professor: Joseph Dacanay | Course: MATH80000 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Test heavy]
@@ -1547,6 +1742,7 @@ Review: "this is a workshop so dacanay doesnt actually teach, we watched videos 
 
 ---
 
+Review #193
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lecture heavy, So many papers]
@@ -1555,6 +1751,7 @@ Review: "I didn't chose to take Dacany as a professor, I needed to for the credi
 
 ---
 
+Review #194
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Accessible outside class, Graded by few things, Lecture heavy]
@@ -1563,6 +1760,7 @@ Review: "Professor Dacanay explains course materials exhaustively, but it can be
 
 ---
 
+Review #195
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, So many papers, Tough grader]
@@ -1571,6 +1769,7 @@ Review: "Even though I passed his class, I would never want to have him again. H
 
 ---
 
+Review #196
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lecture heavy, So many papers, Tough grader]
@@ -1579,6 +1778,7 @@ Review: "Worst professor ever. The tests were ridiculously hard. I swear dont ev
 
 ---
 
+Review #197
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1587,6 +1787,7 @@ Review: "Dacanay is the worst professor in all of CCNY. He makes everything more
 
 ---
 
+Review #198
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lecture heavy]
@@ -1595,6 +1796,7 @@ Review: "Math is complicated. It's even more complicated when you don't have the
 
 ---
 
+Review #199
 Professor: Joseph Dacanay | Course: MATH1155 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, EXTRA CREDIT, Tough grader]
@@ -1603,6 +1805,7 @@ Review: "I've never been good at math, but he made it even harder to understand.
 
 ---
 
+Review #200
 Professor: Joseph Dacanay | Course: MATH150 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Accessible outside class, Tough grader]
@@ -1611,6 +1814,7 @@ Review: "Well he is not the best but he is no the worst. He does give homework f
 
 ---
 
+Review #201
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, TEST HEAVY]
@@ -1619,6 +1823,7 @@ Review: "Dacanay just loves to take off points on tests and homeworks. His job i
 
 ---
 
+Review #202
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Skip class? You won't pass., BEWARE OF POP QUIZZES]
@@ -1627,6 +1832,7 @@ Review: "I can say Math has been my favorite subject but this guy is awful and F
 
 ---
 
+Review #203
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Gives good feedback, TEST HEAVY, EXTRA CREDIT]
@@ -1635,6 +1841,7 @@ Review: "Took him Fall 2017. We had several quizzes and four exams but drops one
 
 ---
 
+Review #204
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, ACCESSIBLE OUTSIDE CLASS, Clear grading criteria]
@@ -1643,6 +1850,7 @@ Review: "You have to do the extra credit, it boosts your grade a lot. Honestly b
 
 ---
 
+Review #205
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -1651,6 +1859,7 @@ Review: "A+ Professor."
 
 ---
 
+Review #206
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Respected, Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -1659,6 +1868,7 @@ Review: "I thought he was going to be a bad professor because of his rating, but
 
 ---
 
+Review #207
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Tough Grader, BEWARE OF POP QUIZZES, ACCESSIBLE OUTSIDE CLASS]
@@ -1667,6 +1877,7 @@ Review: "Hardworking professor"
 
 ---
 
+Review #208
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -1675,6 +1886,7 @@ Review: "Boring lectures. Long and hard exams that didnt always ask from the mat
 
 ---
 
+Review #209
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Skip class? You won't pass., EXTRA CREDIT]
@@ -1683,6 +1895,7 @@ Review: "Tough to pay attention to, very monotone and boring, but a good profess
 
 ---
 
+Review #210
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, TEST HEAVY, EXTRA CREDIT]
@@ -1691,6 +1904,7 @@ Review: "A pretty tough professor but he'll get you to really understand the mat
 
 ---
 
+Review #211
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Caring, EXTRA CREDIT]
@@ -1699,6 +1913,7 @@ Review: "He is a really good Professor willing to help you with the best attitud
 
 ---
 
+Review #212
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, EXTRA CREDIT]
@@ -1707,6 +1922,7 @@ Review: "Tough grader when it comes to HW bt gives good feedback. Gives HW from 
 
 ---
 
+Review #213
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -1715,6 +1931,7 @@ Review: "Joseph is one tough guy because he is strict in his grading and seems t
 
 ---
 
+Review #214
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, TEST HEAVY]
@@ -1723,6 +1940,7 @@ Review: "Way tougher than the other precalculus professors at CCNY. Take a diffe
 
 ---
 
+Review #215
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [TEST HEAVY]
@@ -1731,6 +1949,7 @@ Review: "Best math professor I've ever had, honestly."
 
 ---
 
+Review #216
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 2.5 | Difficulty: 4.0
 
 Tags: []
@@ -1739,6 +1958,7 @@ Review: "Definitely not the best teacher for an introductory math class. He's wi
 
 ---
 
+Review #217
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -1747,6 +1967,7 @@ Review: "If you get a chance, stay away from him!! People who knew math and love
 
 ---
 
+Review #218
 Professor: Joseph Dacanay | Course: MATH1900 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: []
@@ -1755,6 +1976,7 @@ Review: "extremely tough. but he is helpful after and before class even in his o
 
 ---
 
+Review #219
 Professor: Joseph Dacanay | Course: MATH19500 | Rating: 4.5 | Difficulty: 4.0
 
 Tags: []
@@ -1763,6 +1985,7 @@ Review: "Joseph is one of the most helpful teachers I've met at CCNY.  He is wil
 
 ---
 
+Review #220
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: []
@@ -1771,6 +1994,7 @@ Review: "Very nice person, willing 2 help. But no matter what his 5 ques. 0 part
 
 ---
 
+Review #221
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1779,6 +2003,7 @@ Review: "There's no words to describe how bad this professor is. No matter how m
 
 ---
 
+Review #222
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1787,6 +2012,7 @@ Review: "words can not describe how difficult this guy made math turn out to be.
 
 ---
 
+Review #223
 Professor: Joseph Dacanay | Course: MATH195 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -1795,6 +2021,7 @@ Review: "Students often correct him about  arithmetic mistakes. Often not clear 
 
 ---
 
+Review #224
 Professor: Joseph Dacanay | Course: MATH1155 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1803,6 +2030,7 @@ Review: "Horrible teacher that does now know his material"
 
 ---
 
+Review #225
 Professor: Thea Pignataro | Course: CALC201 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Caring, Test heavy, Accessible outside class]
@@ -1811,6 +2039,7 @@ Review: "Good person, bad teacher tbh. The number 1 problem is her ancient egypt
 
 ---
 
+Review #226
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -1819,6 +2048,7 @@ Review: "She is good at explaining and pretty lenient with grading I'd say"
 
 ---
 
+Review #227
 Professor: Thea Pignataro | Course: MATH201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [EXTRA CREDIT, Caring, Test heavy]
@@ -1827,6 +2057,7 @@ Review: "Her office hours are the most useful part of the course. While she may 
 
 ---
 
+Review #228
 Professor: Thea Pignataro | Course: MATH201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Lecture heavy]
@@ -1835,6 +2066,7 @@ Review: "1. gives heavy loads of partial credit 2. scopes of extra credit 3. may
 
 ---
 
+Review #229
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [EXTRA CREDIT, Lots of homework, Test heavy]
@@ -1843,6 +2075,7 @@ Review: "If u take her and want to succeed in this course, Be ready for self stu
 
 ---
 
+Review #230
 Professor: Thea Pignataro | Course: CALC201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Gives good feedback, Hilarious]
@@ -1851,6 +2084,7 @@ Review: "I took Professor Thea's class Fall 24'! She has a funny personality and
 
 ---
 
+Review #231
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lecture heavy, Test heavy, Graded by few things]
@@ -1859,6 +2093,7 @@ Review: "just don't take the class she will do everything in her power to make s
 
 ---
 
+Review #232
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: []
@@ -1867,6 +2102,7 @@ Review: "You will have to teach yourself the entire course she will not teach an
 
 ---
 
+Review #233
 Professor: Thea Pignataro | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, Lots of homework, Lecture heavy]
@@ -1875,6 +2111,7 @@ Review: "Her class is not easy to understand. She doesn't solve problem. Does on
 
 ---
 
+Review #234
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Accessible outside class]
@@ -1883,6 +2120,7 @@ Review: "Test questions are very similar to the homework, so do it even if it's 
 
 ---
 
+Review #235
 Professor: Thea Pignataro | Course: MATH201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Lots of homework, Accessible outside class]
@@ -1891,6 +2129,7 @@ Review: "Not a bad professor, there's lots of homework but it really helps when 
 
 ---
 
+Review #236
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT, Lots of homework, Test heavy]
@@ -1899,6 +2138,7 @@ Review: "DO THE HOMEWORK! Her tests come straight from the homework so they were
 
 ---
 
+Review #237
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: []
@@ -1907,6 +2147,7 @@ Review: "Does not actually teach math only the theories"
 
 ---
 
+Review #238
 Professor: Thea Pignataro | Course: CALC201 | Rating: 3.0 | Difficulty: 1.0
 
 Tags: [Test heavy, Graded by few things]
@@ -1915,6 +2156,7 @@ Review: "In all honesty shes not the worst and definitely not the best. Her lect
 
 ---
 
+Review #239
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -1923,6 +2165,7 @@ Review: "I don't recommend taking her class. She is not effective at teaching an
 
 ---
 
+Review #240
 Professor: Thea Pignataro | Course: MATH201 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -1931,6 +2174,7 @@ Review: "no. just no. you'll need god on your side."
 
 ---
 
+Review #241
 Professor: Thea Pignataro | Course: CALC201 | Rating: 2.0 | Difficulty: 2.0
 
 Tags: [Lots of homework]
@@ -1939,6 +2183,7 @@ Review: "Only take her if you've already taken calc previously, and if you're wi
 
 ---
 
+Review #242
 Professor: Thea Pignataro | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [EXTRA CREDIT, Test heavy, Graded by few things]
@@ -1947,6 +2192,7 @@ Review: "really rude to students and has an attitude with everyone. If u've take
 
 ---
 
+Review #243
 Professor: Thea Pignataro | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -1955,6 +2201,7 @@ Review: "no. just no."
 
 ---
 
+Review #244
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -1963,6 +2210,7 @@ Review: "Super rude, screams, it takes forever to grade, avoid"
 
 ---
 
+Review #245
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -1971,6 +2219,7 @@ Review: "Rudess professor at CCNY I'm shocked that she still works at Ccny. 1-sh
 
 ---
 
+Review #246
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Respected, Accessible outside class]
@@ -1979,6 +2228,7 @@ Review: "She's a pretty decent professor. If you learn math best by doing theory
 
 ---
 
+Review #247
 Professor: Thea Pignataro | Course: CALC201 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [EXTRA CREDIT, Gives good feedback]
@@ -1987,6 +2237,7 @@ Review: "Average professor. Lectures are mostly theory. Gives partial credit and
 
 ---
 
+Review #248
 Professor: Thea Pignataro | Course: CALC201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, Lots of homework, Caring]
@@ -1995,6 +2246,7 @@ Review: "She is a caring professor who tries to help students understand the cou
 
 ---
 
+Review #249
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Graded by few things]
@@ -2003,6 +2255,7 @@ Review: "One of the worst professors I have ever had the misfortune of attending
 
 ---
 
+Review #250
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Respected, Test heavy]
@@ -2011,6 +2264,7 @@ Review: "If you want to learn calculus then do not take this Professor. She pull
 
 ---
 
+Review #251
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Hilarious, Tough grader]
@@ -2019,6 +2273,7 @@ Review: "I did not learn anything in that class."
 
 ---
 
+Review #252
 Professor: Thea Pignataro | Course: CALC201 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [LOTS OF HOMEWORK]
@@ -2027,6 +2282,7 @@ Review: "Just don't take her unless you like teaching yourself. She gets easily 
 
 ---
 
+Review #253
 Professor: Thea Pignataro | Course: MATH323 | Rating: 5.0 | Difficulty: 5.0
 
 Tags: [Respected, Amazing lectures, Caring]
@@ -2035,6 +2291,7 @@ Review: "Thea is a respected mathematician who prefers more than the prestige or
 
 ---
 
+Review #254
 Professor: Thea Pignataro | Course: MATH201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Clear grading criteria, Caring]
@@ -2043,6 +2300,7 @@ Review: "Very lenient grading, apart for the final. Homework is useful and can p
 
 ---
 
+Review #255
 Professor: Thea Pignataro | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Skip class? You won't pass., LECTURE HEAVY]
@@ -2051,6 +2309,7 @@ Review: "One of the worst professors I have taken at CCNY. She consistently came
 
 ---
 
+Review #256
 Professor: Thea Pignataro | Course: MATH39100 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Caring, Would take again]
@@ -2059,6 +2318,7 @@ Review: "the lecture is pointless but her tests are easy. Just self study and do
 
 ---
 
+Review #257
 Professor: Thea Pignataro | Course: MATH201 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: [GRADED BY FEW THINGS, Caring, LECTURE HEAVY]
@@ -2067,6 +2327,7 @@ Review: "She really likes to explore the concepts instead of doing examples. Did
 
 ---
 
+Review #258
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [BEWARE OF POP QUIZZES, Clear grading criteria, EXTRA CREDIT]
@@ -2075,6 +2336,7 @@ Review: "All in all great professor! Get to know her and you'll be fine. However
 
 ---
 
+Review #259
 Professor: Thea Pignataro | Course: CALC201 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, EXTRA CREDIT]
@@ -2083,6 +2345,7 @@ Review: "She's fine. Nothing great but not the worst. You probably won't learn a
 
 ---
 
+Review #260
 Professor: Thea Pignataro | Course: MATH201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -2091,6 +2354,7 @@ Review: "Amazing professor She's a really good mathematician who will teach you 
 
 ---
 
+Review #261
 Professor: Thea Pignataro | Course: MATH324 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -2099,6 +2363,7 @@ Review: "Homework + Quizzes + Test  50% of your grade Final  50% Terrible profes
 
 ---
 
+Review #262
 Professor: Thea Pignataro | Course: MATH32404 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -2107,6 +2372,7 @@ Review: "This is the first time in years she is teaching 324, and she is absolut
 
 ---
 
+Review #263
 Professor: Thea Pignataro | Course: MATH324 | Rating: 3.5 | Difficulty: 5.0
 
 Tags: []
@@ -2115,6 +2381,7 @@ Review: "Her lectures barely have any information. It's more of a discussion cla
 
 ---
 
+Review #264
 Professor: Thea Pignataro | Course: MATH201 | Rating: 1.5 | Difficulty: 3.0
 
 Tags: []
@@ -2123,6 +2390,7 @@ Review: "She got mad when you ask her questions. The lectures are super boring a
 
 ---
 
+Review #265
 Professor: Thea Pignataro | Course: MATH201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -2131,6 +2399,7 @@ Review: "As long as lectures are (oh god I try not to sleep) she's willing to he
 
 ---
 
+Review #266
 Professor: Thea Pignataro | Course: MATH201 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -2139,6 +2408,7 @@ Review: "She teaches like you know the stuff already. Expect to learn the course
 
 ---
 
+Review #267
 Professor: Thea Pignataro | Course: MATH39100 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -2147,6 +2417,7 @@ Review: "HW are extra credit, she is a very good instructor and makes differenti
 
 ---
 
+Review #268
 Professor: Thea Pignataro | Course: MATH323 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -2155,6 +2426,7 @@ Review: "Great  professor, I learned a lot"
 
 ---
 
+Review #269
 Professor: Thea Pignataro | Course: MATH391 | Rating: 3.5 | Difficulty: 2.0
 
 Tags: []
@@ -2163,6 +2435,7 @@ Review: "I felt she made the subject look very difficult and frustrating, howeve
 
 ---
 
+Review #270
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -2171,6 +2444,7 @@ Review: "Above average but better than most of the teachers that CCNY hires. She
 
 ---
 
+Review #271
 Professor: Thea Pignataro | Course: MAT391 | Rating: 2.5 | Difficulty: 3.0
 
 Tags: []
@@ -2179,6 +2453,7 @@ Review: "Her lectures tend to be over-complicated and specific, she makes simple
 
 ---
 
+Review #272
 Professor: Thea Pignataro | Course: MATH323 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -2187,6 +2462,7 @@ Review: "Professor Pignataro is one of the best Math professors in the math depa
 
 ---
 
+Review #273
 Professor: Thea Pignataro | Course: MATH391 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -2195,6 +2471,7 @@ Review: "BEST MATH PROFESSOR AT CCNY! I've taken almost every math course with h
 
 ---
 
+Review #274
 Professor: Thea Pignataro | Course: CALC202 | Rating: 2.0 | Difficulty: 2.0
 
 Tags: []
@@ -2203,6 +2480,7 @@ Review: "not a great professor. i found her irritating and rude at times. never 
 
 ---
 
+Review #275
 Professor: Thea Pignataro | Course: MATH323 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -2211,6 +2489,7 @@ Review: "Pignataro is awesome! you will learn a lot!"
 
 ---
 
+Review #276
 Professor: Thea Pignataro | Course: 202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -2219,6 +2498,7 @@ Review: "GREAT PROFESSOR!!!!"
 
 ---
 
+Review #277
 Professor: Thea Pignataro | Course: CALC202 | Rating: 1.5 | Difficulty: 4.0
 
 Tags: []
@@ -2227,6 +2507,7 @@ Review: "not always clear with her lessons, exams were scarce but lots of partia
 
 ---
 
+Review #278
 Professor: Thea Pignataro | Course: MATH20200 | Rating: 3.5 | Difficulty: 3.0
 
 Tags: []
@@ -2235,6 +2516,7 @@ Review: "Good professor but does get frustrated at times when the students don't
 
 ---
 
+Review #279
 Professor: Thea Pignataro | Course: CALC202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -2243,6 +2525,7 @@ Review: "Best Professor, take her if you can. Explains everything clearly, easy 
 
 ---
 
+Review #280
 Professor: Thea Pignataro | Course: MATH323 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -2251,6 +2534,7 @@ Review: "Profesor Pignataro is a very gifted mathematician. I learned a lot in t
 
 ---
 
+Review #281
 Professor: Thea Pignataro | Course: MATH39100 | Rating: 4.5 | Difficulty: 4.0
 
 Tags: []
@@ -2259,6 +2543,7 @@ Review: "She is an incredibly nice woman! Her lectures are clear, however you ma
 
 ---
 
+Review #282
 Professor: Thea Pignataro | Course: MATH391 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -2267,6 +2552,7 @@ Review: "Profesor Pignataro is amazing! She is super helpful in class and in off
 
 ---
 
+Review #283
 Professor: Thea Pignataro | Course: MAT301 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -2275,6 +2561,7 @@ Review: "Disorganized. Late. Expect to be confused after listening to her answer
 
 ---
 
+Review #284
 Professor: Thea Pignataro | Course: CALC202 | Rating: 3.5 | Difficulty: 1.0
 
 Tags: []
@@ -2283,6 +2570,7 @@ Review: "Well, being honest Calc 2 has a large syllabus. So what professor you t
 
 ---
 
+Review #285
 Professor: Thea Pignataro | Course: 202 | Rating: 3.5 | Difficulty: 2.0
 
 Tags: []
@@ -2291,6 +2579,7 @@ Review: "She teaches pretty good, but you need to read a bit of the section befo
 
 ---
 
+Review #286
 Professor: Thea Pignataro | Course: MATH202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -2299,6 +2588,7 @@ Review: "Prof. Pignataro was superb! She derived all the formulas in class so I 
 
 ---
 
+Review #287
 Professor: Thea Pignataro | Course: MATH20200 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -2307,6 +2597,7 @@ Review: "Prof. Pignataro is the worst. You will not learn from her, as she is so
 
 ---
 
+Review #288
 Professor: Thea Pignataro | Course: CALC201 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: []
@@ -2315,6 +2606,7 @@ Review: "No attendance. Assigns HW but doesnt grade it. Grade is only tests&quiz
 
 ---
 
+Review #289
 Professor: Thea Pignataro | Course: CALC201 | Rating: 3.0 | Difficulty: 1.0
 
 Tags: []
@@ -2323,6 +2615,7 @@ Review: "Great professor. Can be confusing at times but if you do    all the hom
 
 ---
 
+Review #290
 Professor: Thea Pignataro | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -2331,6 +2624,7 @@ Review: "Terrible teacher. I had already taken AP calculus in high school but fo
 
 ---
 
+Review #291
 Professor: Thea Pignataro | Course: MATH323 | Rating: 3.5 | Difficulty: 4.0
 
 Tags: []
@@ -2339,6 +2633,7 @@ Review: "I can't believe I accomplished a B- since I was going through some thin
 
 ---
 
+Review #292
 Professor: Thea Pignataro | Course: MATH202 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: []
@@ -2347,6 +2642,7 @@ Review: "She's more interested in you learning the concept than simply memorizin
 
 ---
 
+Review #293
 Professor: Thea Pignataro | Course: MATH391 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: []
@@ -2355,6 +2651,7 @@ Review: "It's hard to put into words how terrible this professor is.consistently
 
 ---
 
+Review #294
 Professor: Thea Pignataro | Course: M185 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -2363,6 +2660,7 @@ Review: "She is a brilliant math professor who has the talent and ability to con
 
 ---
 
+Review #295
 Professor: Thea Pignataro | Course: MATH203 | Rating: 3.0 | Difficulty: 1.0
 
 Tags: []
@@ -2371,6 +2669,7 @@ Review: "I think she was okay teacher b/c she was an extremely easy grader and g
 
 ---
 
+Review #296
 Professor: Thea Pignataro | Course: MATH150 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: []
@@ -2379,6 +2678,7 @@ Review: "Pignartaro collects homework but doesnt grade it, she can't explain too
 
 ---
 
+Review #297
 Professor: Thea Pignataro | Course: MATH150 | Rating: 1.5 | Difficulty: 2.0
 
 Tags: []
@@ -2387,6 +2687,7 @@ Review: "She showed up late to most of the classes and didn't show up at all a f
 
 ---
 
+Review #298
 Professor: Thea Pignataro | Course: MM150 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -2395,6 +2696,7 @@ Review: "AHHHHHH! DON'T TAKE HER!! she will screw you over, she doe not take the
 
 ---
 
+Review #299
 Professor: Thea Pignataro | Course: MATH185 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []
@@ -2403,6 +2705,7 @@ Review: "she explains the material in a horrible manner. if you ask her a questi
 
 ---
 
+Review #300
 Professor: Thea Pignataro | Course: CALC2 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -2411,6 +2714,7 @@ Review: "You can tell she really loves the subject, it comes through in her teac
 
 ---
 
+Review #301
 Professor: Thea Pignataro | Course: MATH391 | Rating: 3.5 | Difficulty: 2.0
 
 Tags: []
@@ -2419,6 +2723,7 @@ Review: "Very nice professor. Writes her own finals. Very lenient."
 
 ---
 
+Review #302
 Professor: Thea Pignataro | Course: MATH391 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -2427,6 +2732,7 @@ Review: "The class was deeply rooted in theory. Gave me a new way of thinking ab
 
 ---
 
+Review #303
 Professor: Matthew Auth | Course: MAT328 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Amazing lectures, Lots of homework]
@@ -2435,6 +2741,7 @@ Review: "Prof is good but the material was very difficult, prepare for this elec
 
 ---
 
+Review #304
 Professor: Matthew Auth | Course: CALC212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Clear grading criteria, Graded by few things]
@@ -2443,6 +2750,7 @@ Review: "Honestly the way he does class is really straightforward. Quizzes are e
 
 ---
 
+Review #305
 Professor: Matthew Auth | Course: CALC202 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, So many papers]
@@ -2451,6 +2759,7 @@ Review: "He is such a from another planet. He takes quiz everyday, i know its go
 
 ---
 
+Review #306
 Professor: Matthew Auth | Course: CALC201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy]
@@ -2459,6 +2768,7 @@ Review: "Self-study is the only way you pass this course. Thinking about it now,
 
 ---
 
+Review #307
 Professor: Matthew Auth | Course: CALC212 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -2467,6 +2777,7 @@ Review: "Tough grader. I feel like the exams were harder than a lot of stuff giv
 
 ---
 
+Review #308
 Professor: Matthew Auth | Course: CALC201 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: []
@@ -2475,6 +2786,7 @@ Review: "He is a smart guy and you could tell he is passionate about calc. The o
 
 ---
 
+Review #309
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader]
@@ -2483,6 +2795,7 @@ Review: "He doesn't prepare you well for his test, and his tests are really hard
 
 ---
 
+Review #310
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -2491,6 +2804,7 @@ Review: "Despite teaching very well, his quizzes and exam questions are really h
 
 ---
 
+Review #311
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Beware of pop quizzes, Accessible outside class]
@@ -2499,6 +2813,7 @@ Review: "I took him over the summer for Calc I. His lectures in class are great,
 
 ---
 
+Review #312
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Beware of pop quizzes, Test heavy]
@@ -2507,6 +2822,7 @@ Review: "Quiz every time, partial credit avaliable, quiz is the attendance, week
 
 ---
 
+Review #313
 Professor: Matthew Auth | Course: CALC212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Inspirational, Respected]
@@ -2515,6 +2831,7 @@ Review: "While he does do quizzes every class, I feel like that is one of the ma
 
 ---
 
+Review #314
 Professor: Matthew Auth | Course: CALC212 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -2523,6 +2840,7 @@ Review: "Quizzes every day. You need to self study because he doesn't teach good
 
 ---
 
+Review #315
 Professor: Matthew Auth | Course: CALC201 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -2531,6 +2849,7 @@ Review: "Never in my life will I take a class with this man again. He is not a g
 
 ---
 
+Review #316
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Get ready to read, Lots of homework, Test heavy]
@@ -2539,6 +2858,7 @@ Review: "Before you take this rating into evaluation, I did take him for a summe
 
 ---
 
+Review #317
 Professor: Matthew Auth | Course: CALC212 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Respected, Test heavy]
@@ -2547,6 +2867,7 @@ Review: "He's alright. Staying on top of work and self studying is very importan
 
 ---
 
+Review #318
 Professor: Matthew Auth | Course: CALC212 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -2555,6 +2876,7 @@ Review: "Never ever ever ever ever ever ever ever ever ever ever ever ever ever 
 
 ---
 
+Review #319
 Professor: Matthew Auth | Course: MATH212 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -2563,6 +2885,7 @@ Review: "not the best but not the worst..."
 
 ---
 
+Review #320
 Professor: Matthew Auth | Course: 15000 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Lecture heavy, Test heavy]
@@ -2571,6 +2894,7 @@ Review: "Now, I am very bad at math so that could effect my rating. That being s
 
 ---
 
+Review #321
 Professor: Matthew Auth | Course: MATH212 | Rating: 3.0 | Difficulty: 1.0
 
 Tags: [Clear grading criteria]
@@ -2579,6 +2903,7 @@ Review: "You will be fine if you can manage to self study and stay on top of the
 
 ---
 
+Review #322
 Professor: Matthew Auth | Course: CALC212 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Clear grading criteria, Beware of pop quizzes]
@@ -2587,6 +2912,7 @@ Review: "Barely studied for this class, barely passed. If you self-studied, you'
 
 ---
 
+Review #323
 Professor: Matthew Auth | Course: CALC212 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -2595,6 +2921,7 @@ Review: "Professor is clearly not qualified to teach. Kept babbling not ever sta
 
 ---
 
+Review #324
 Professor: Matthew Auth | Course: CALC212 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -2603,6 +2930,7 @@ Review: "Do not take he is not clear in lectures, does not teach or explain well
 
 ---
 
+Review #325
 Professor: Matthew Auth | Course: CALC212 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Graded by few things]
@@ -2611,6 +2939,7 @@ Review: "Bad Professor He barely gives partial credit. Does not want to hear or 
 
 ---
 
+Review #326
 Professor: Matthew Auth | Course: CALC201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Gives good feedback, Accessible outside class]
@@ -2619,6 +2948,7 @@ Review: "The grading is straightforward, pretty lenient for things like quizzes/
 
 ---
 
+Review #327
 Professor: Matthew Auth | Course: CALC212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Clear grading criteria, Accessible outside class]
@@ -2627,6 +2957,7 @@ Review: "Very understandable and does problems on an iPad(much easier to see tha
 
 ---
 
+Review #328
 Professor: Matthew Auth | Course: MATH212 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Respected, Accessible outside class]
@@ -2635,6 +2966,7 @@ Review: "Matthew Auth is an amazing professor for Calculus II. His homework assi
 
 ---
 
+Review #329
 Professor: Matthew Auth | Course: MATH212 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -2643,6 +2975,7 @@ Review: "Honestly I didn't do the best in his course as much as I wanted to, but
 
 ---
 
+Review #330
 Professor: Matthew Auth | Course: MATH212 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Caring, Accessible outside class]
@@ -2651,6 +2984,7 @@ Review: "Professor Auth is truly one of the best Calc professors I have ever had
 
 ---
 
+Review #331
 Professor: Matthew Auth | Course: CALC212 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Caring, Graded by few things, Accessible outside class]
@@ -2659,6 +2993,7 @@ Review: "probably one of the best math profs i've seen. he does often go on tang
 
 ---
 
+Review #332
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Get ready to read, Test heavy]
@@ -2667,6 +3002,7 @@ Review: "The professor's lectures are unclear, inconsistently paced, and it's ea
 
 ---
 
+Review #333
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Beware of pop quizzes]
@@ -2675,6 +3011,7 @@ Review: "I had him twice a week for almost two hours, and didn't feel like he us
 
 ---
 
+Review #334
 Professor: Matthew Auth | Course: 19000 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -2683,6 +3020,7 @@ Review: "Professor Auth's class is challenging, but engaging if you're willing t
 
 ---
 
+Review #335
 Professor: Matthew Auth | Course: CALC212 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Beware of pop quizzes, Test heavy, Graded by few things]
@@ -2691,6 +3029,7 @@ Review: "Honestly Auth is not bad compared to the other math professors. Usually
 
 ---
 
+Review #336
 Professor: Matthew Auth | Course: MATH19000 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -2699,6 +3038,7 @@ Review: "Don't even take him. He gets off-topic a lot, and his notes are unclear
 
 ---
 
+Review #337
 Professor: Matthew Auth | Course: MATH19000 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Inspirational, Accessible outside class]
@@ -2707,6 +3047,7 @@ Review: "I took his 8 am class. From day 1, I felt like he's very good at motiva
 
 ---
 
+Review #338
 Professor: Matthew Auth | Course: 19000 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Gives good feedback, Inspirational]
@@ -2715,6 +3056,7 @@ Review: "I recommend taking professor auth. He is much better than anyone else i
 
 ---
 
+Review #339
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Beware of pop quizzes, Test heavy]
@@ -2723,6 +3065,7 @@ Review: "DONT TAKE THIS CLASS! I took his class and he was no help at all.I did 
 
 ---
 
+Review #340
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Beware of pop quizzes, Test heavy]
@@ -2732,6 +3075,7 @@ Quizzes in the beginning of class, late/absent you can't remake them. A lot of t
 
 ---
 
+Review #341
 Professor: Matthew Auth | Course: 19000 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Inspirational]
@@ -2740,6 +3084,7 @@ Review: "Proffeser Auth was one of the most genuine teachers I have had. Student
 
 ---
 
+Review #342
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Beware of pop quizzes, Test heavy]
@@ -2748,6 +3093,7 @@ Review: "Just don't take him.."
 
 ---
 
+Review #343
 Professor: Matthew Auth | Course: MATH19000 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Beware of pop quizzes, Test heavy, Graded by few things]
@@ -2756,6 +3102,7 @@ Review: "At first he told us that we were behind and belittled us. Quiz every si
 
 ---
 
+Review #344
 Professor: Matthew Auth | Course: MATH19000 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Beware of pop quizzes, Test heavy]
@@ -2764,6 +3111,7 @@ Review: "Matthew Auth challenges his students and makes them better mathematicia
 
 ---
 
+Review #345
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -2772,6 +3120,7 @@ Review: "This teacher gives quizzes at the start of every class and 2/3 of the c
 
 ---
 
+Review #346
 Professor: Matthew Auth | Course: MATH19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -2780,6 +3129,7 @@ Review: "Belittled all of his students during the first week of classes by menti
 
 ---
 
+Review #347
 Professor: Matthew Auth | Course: MATH1900 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Clear grading criteria]
@@ -2788,6 +3138,7 @@ Review: "When I asked him to send emails regarding when quizzes will be earlier 
 
 ---
 
+Review #348
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Beware of pop quizzes, Test heavy]
@@ -2796,6 +3147,7 @@ Review: "Well Goodluck in this class if your not good at math you will have a ba
 
 ---
 
+Review #349
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -2804,6 +3156,7 @@ Review: "one of the worst professors, avoid him if you can you really dont learn
 
 ---
 
+Review #350
 Professor: Matthew Auth | Course: 19000 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Amazing lectures, Clear grading criteria, Caring]
@@ -2812,6 +3165,7 @@ Review: "Great Professor; the subject is not hard and he's very clear about what
 
 ---
 
+Review #351
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Test heavy]
@@ -2820,6 +3174,7 @@ Review: "This subject is not hard...anyone who struggles with math or is expecti
 
 ---
 
+Review #352
 Professor: Matthew Auth | Course: 19500 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Get ready to read, Test heavy]
@@ -2828,6 +3183,7 @@ Review: "Brutal just brutal you can't retake test and good luck if you struggle 
 
 ---
 
+Review #353
 Professor: Matthew Auth | Course: 19000 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -2836,6 +3192,7 @@ Review: "Matthew Auth is one of the rudest people I've met in my life he doesn't
 
 ---
 
+Review #354
 Professor: Matthew Auth | Course: MATH346 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Get ready to read, Amazing lectures, Clear grading criteria]
@@ -2844,6 +3201,7 @@ Review: "He gives great lectures but u need to read the textbook and do the sugg
 
 ---
 
+Review #355
 Professor: Matthew Auth | Course: MATH34600 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -2852,6 +3210,7 @@ Review: "Great professor! Easy to understand and does enough problems to prepare
 
 ---
 
+Review #356
 Professor: Matthew Auth | Course: 195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Lots of homework, Accessible outside class]
@@ -2860,6 +3219,7 @@ Review: "He is really nice and teaches well."
 
 ---
 
+Review #357
 Professor: Matthew Auth | Course: MATH34600 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Get ready to read, Clear grading criteria, Inspirational]
@@ -2868,6 +3228,7 @@ Review: "I took him back in the Summer 2021 Semester for Math 34600. He is amazi
 
 ---
 
+Review #358
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Respected, Test heavy]
@@ -2876,6 +3237,7 @@ Review: "The professor was really engaging and made sure his students understand
 
 ---
 
+Review #359
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Graded by few things, Test heavy, Tough grader]
@@ -2884,6 +3246,7 @@ Review: "Calculus itself is hard and due to online learning it became tougher fo
 
 ---
 
+Review #360
 Professor: Matthew Auth | Course: MATH346 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Test heavy, Beware of pop quizzes]
@@ -2892,6 +3255,7 @@ Review: "Auth was a pretty nice guy tbh. It's obvious that online teaching has b
 
 ---
 
+Review #361
 Professor: Matthew Auth | Course: MATH34600 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []
@@ -2900,6 +3264,7 @@ Review: "quiz every class, 3 exams, 1 final, no curve, hard grading."
 
 ---
 
+Review #362
 Professor: Matthew Auth | Course: MATH346 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Accessible outside class, Get ready to read, Caring]
@@ -2908,6 +3273,7 @@ Review: "Pretty friendly and accessible outside of class. There are quizzes clas
 
 ---
 
+Review #363
 Professor: Matthew Auth | Course: MATH346 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Respected, Graded by few things, Beware of pop quizzes]
@@ -2916,6 +3282,7 @@ Review: "He is alright but he made us watch MIT videos and then do the problem. 
 
 ---
 
+Review #364
 Professor: Matthew Auth | Course: MATH328 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Skip class? You won't pass., Beware of pop quizzes, Tough grader]
@@ -2924,6 +3291,7 @@ Review: "Auth is a intelligent guy for his own good. his class is quiz heavy. do
 
 ---
 
+Review #365
 Professor: Matthew Auth | Course: MATH32800 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -2932,6 +3300,7 @@ Review: "This math teacher is good and helpful. I am sure if you will do well on
 
 ---
 
+Review #366
 Professor: Matthew Auth | Course: MATH328 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Participation matters, Clear grading criteria]
@@ -2940,6 +3309,7 @@ Review: "He is a great professor. The key is to study. This is a hard class and 
 
 ---
 
+Review #367
 Professor: Matthew Auth | Course: MATH328 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Graded by few things, Tough grader]
@@ -2948,6 +3318,7 @@ Review: "Classes went online this semester. He made our final worth 85%, no curv
 
 ---
 
+Review #368
 Professor: Matthew Auth | Course: MATH328 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Graded by few things, Beware of pop quizzes]
@@ -2956,6 +3327,7 @@ Review: "Imagine taking a class that relies heavily on coding and having a profe
 
 ---
 
+Review #369
 Professor: Matthew Auth | Course: MAT328 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Skip class? You won't pass., Tough grader]
@@ -2964,6 +3336,7 @@ Review: "Avoid this class if you can"
 
 ---
 
+Review #370
 Professor: Matthew Auth | Course: MATH195 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: []
@@ -2972,6 +3345,7 @@ Review: "I took the precalc winter class. He is very nice and I like the way he 
 
 ---
 
+Review #371
 Professor: Matthew Auth | Course: MAT328 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Graded by few things]
@@ -2980,6 +3354,7 @@ Review: "I took his class as a minor course. Before taking his Numerical Analysi
 
 ---
 
+Review #372
 Professor: Matthew Auth | Course: MAT32800 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lecture heavy, Tough grader]
@@ -2988,6 +3363,7 @@ Review: "His lecture was way too theoretical and abstract. I feel like that he w
 
 ---
 
+Review #373
 Professor: Matthew Auth | Course: MATH328 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Test heavy, Tough grader]
@@ -2996,6 +3372,7 @@ Review: "Very bad lecturer. Youd be better off teaching yourself numerical analy
 
 ---
 
+Review #374
 Professor: Matthew Auth | Course: M328 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -3004,6 +3381,7 @@ Review: "He doesn't curve, that's the bottom line. You go to his office hours an
 
 ---
 
+Review #375
 Professor: Matthew Auth | Course: MATH32800 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Test heavy, Tough grader]
@@ -3012,6 +3390,7 @@ Review: "He goes so fast, his exams are gpa killers. The weekly quizzes makes yo
 
 ---
 
+Review #376
 Professor: Matthew Auth | Course: MATH34600 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Amazing lectures, Caring]
@@ -3020,6 +3399,7 @@ Review: "Easygoing, respectful, good and helpful math teacher"
 
 ---
 
+Review #377
 Professor: Matthew Auth | Course: M328 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -3028,6 +3408,7 @@ Review: "If you are lacking genius's qualities or your gpa is low, don't take hi
 
 ---
 
+Review #378
 Professor: Matthew Auth | Course: MATH34600 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -3036,6 +3417,7 @@ Review: "This mathematician is helpful, famous and nice. Make sure that you unde
 
 ---
 
+Review #379
 Professor: Matthew Auth | Course: M328 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -3044,6 +3426,7 @@ Review: "Prof. Auth is very passionate about numerical analysis. Keep in mind he
 
 ---
 
+Review #380
 Professor: Matthew Auth | Course: MATH212 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Tough grader]
@@ -3052,6 +3435,7 @@ Review: "Gives a lot of q's through mymathlab. Have to complete at least 2 secti
 
 ---
 
+Review #381
 Professor: Matthew Auth | Course: CALC212 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -3060,6 +3444,7 @@ Review: "He is not the best nor the worst so really up to you. He tends to go of
 
 ---
 
+Review #382
 Professor: Matthew Auth | Course: MATH212 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., Clear grading criteria, EXTRA CREDIT]
@@ -3068,6 +3453,7 @@ Review: "Take this professor if you care about math and you really want to learn
 
 ---
 
+Review #383
 Professor: Matthew Auth | Course: MATH392 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Tough Grader, BEWARE OF POP QUIZZES, TEST HEAVY]
@@ -3076,6 +3462,7 @@ Review: "The professor often goes on tangents when teaching about the topic at h
 
 ---
 
+Review #384
 Professor: Matthew Auth | Course: MA190 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, Participation matters, Clear grading criteria]
@@ -3084,6 +3471,7 @@ Review: "I really liked his teaching method. He taught for a bit, then let us wo
 
 ---
 
+Review #385
 Professor: Matthew Auth | Course: MATH190 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Amazing lectures, Caring]
@@ -3092,6 +3480,7 @@ Review: "I took him for the winter semester and the only bad thing was that only
 
 ---
 
+Review #386
 Professor: Matthew Auth | Course: MATH201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [LOTS OF HOMEWORK, EXTRA CREDIT, LECTURE HEAVY]
@@ -3100,6 +3489,7 @@ Review: "Go to class! He's pretty clear in lecture and shows you easier ways to 
 
 ---
 
+Review #387
 Professor: Matthew Auth | Course: CALC202 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, TEST HEAVY]
@@ -3108,6 +3498,7 @@ Review: "Dont take him for calculus if u care about your GPA"
 
 ---
 
+Review #388
 Professor: Matthew Auth | Course: MATH328 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -3116,6 +3507,7 @@ Review: "He's way too theoretical. He get's stuck discussing the theory of probl
 
 ---
 
+Review #389
 Professor: Matthew Auth | Course: MATH19000 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [LOTS OF HOMEWORK, TEST HEAVY, Amazing lectures]
@@ -3124,6 +3516,7 @@ Review: "he is not the best professor but he's lectures are pretty clear. The hw
 
 ---
 
+Review #390
 Professor: Matthew Auth | Course: MATH19000 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, GRADED BY FEW THINGS, Amazing lectures]
@@ -3132,6 +3525,7 @@ Review: "He's great! for sure would take him again. You gotta go to class but wi
 
 ---
 
+Review #391
 Professor: Matthew Auth | Course: MATH190 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS]
@@ -3140,6 +3534,7 @@ Review: "I had him for the winter class and the way to pass was to keep doing th
 
 ---
 
+Review #392
 Professor: Matthew Auth | Course: MATH19000 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Respected, ACCESSIBLE OUTSIDE CLASS, Clear grading criteria]
@@ -3148,6 +3543,7 @@ Review: "The way to pass is to keep doing the problems by yourself. If you have 
 
 ---
 
+Review #393
 Professor: Matthew Auth | Course: MA190 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, ACCESSIBLE OUTSIDE CLASS, Amazing lectures]
@@ -3156,6 +3552,7 @@ Review: "LOVED him and his class. You obviously have to put in the work but he h
 
 ---
 
+Review #394
 Professor: Matthew Auth | Course: CALC201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., LOTS OF HOMEWORK, Amazing lectures]
@@ -3164,6 +3561,7 @@ Review: "He was a really good professor, he explained almost all concepts in cla
 
 ---
 
+Review #395
 Professor: Matthew Auth | Course: MATH328 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, Tests are tough]
@@ -3172,6 +3570,7 @@ Review: "Let me just say this is one of the worst professors I have ever taken. 
 
 ---
 
+Review #396
 Professor: Matthew Auth | Course: MATH392 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., TEST HEAVY, Amazing lectures]
@@ -3180,6 +3579,7 @@ Review: "Just attend and pay attention to his lectures. He is very clear about e
 
 ---
 
+Review #397
 Professor: Matthew Auth | Course: MATH8000 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., BEWARE OF POP QUIZZES, Amazing lectures]
@@ -3188,6 +3588,7 @@ Review: "I loved this professor. Although I only took a summer class with him, I
 
 ---
 
+Review #398
 Professor: Matthew Auth | Course: MATH201 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Clear grading criteria, GRADED BY FEW THINGS]
@@ -3196,6 +3597,7 @@ Review: "Bad lectures but easy class if you know the material. Only 3 exams with
 
 ---
 
+Review #399
 Professor: Matthew Auth | Course: MATH392 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Tough Grader]
@@ -3204,6 +3606,7 @@ Review: "Thought he was ok until i received my final grade, i got a 68 on the fi
 
 ---
 
+Review #400
 Professor: Matthew Auth | Course: MATH201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass.]
@@ -3212,6 +3615,7 @@ Review: "hes not that bad as you may think. He gives full credit of hw if you do
 
 ---
 
+Review #401
 Professor: Matthew Auth | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Respected, LOTS OF HOMEWORK]
@@ -3220,6 +3624,7 @@ Review: "His lecture examples are too easy which makes the homeworks difficult. 
 
 ---
 
+Review #402
 Professor: Matthew Auth | Course: CALC201 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [LOTS OF HOMEWORK, Clear grading criteria, TEST HEAVY]
@@ -3228,6 +3633,7 @@ Review: "HE IS SUPER HOT AND SEXY. Teaches fairly well. Tests are straight from 
 
 ---
 
+Review #403
 Professor: Matthew Auth | Course: MATH201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [LOTS OF HOMEWORK, Inspirational, Amazing lectures]
@@ -3236,6 +3642,7 @@ Review: "He is one of best math professors at ccny. His exams are the same as th
 
 ---
 
+Review #404
 Professor: Matthew Auth | Course: MATH328 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -3244,6 +3651,7 @@ Review: "Weekly quizzes ( one question - it was exactly like the hw) Exams were 
 
 ---
 
+Review #405
 Professor: Matthew Auth | Course: MATH20105 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -3252,6 +3660,7 @@ Review: "Teaches calculus with theory, which is better than most professors in t
 
 ---
 
+Review #406
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [LOTS OF HOMEWORK, Clear grading criteria, GRADED BY FEW THINGS]
@@ -3260,6 +3669,7 @@ Review: "This teacher was great. However the class was too big and having to tea
 
 ---
 
+Review #407
 Professor: Matthew Auth | Course: MATH328 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Get ready to read, LOTS OF HOMEWORK, TEST HEAVY]
@@ -3268,6 +3678,7 @@ Review: "He assigns hw every week, even though he doesn't collect them, do the h
 
 ---
 
+Review #408
 Professor: Matthew Auth | Course: MATH328 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -3276,6 +3687,7 @@ Review: "Homework was key for passing this class. Don't slack off. You keep up w
 
 ---
 
+Review #409
 Professor: Matthew Auth | Course: MATH328 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -3284,6 +3696,7 @@ Review: "I really enjoyed Numerical Analysis. We had a quiz every week but the q
 
 ---
 
+Review #410
 Professor: Matthew Auth | Course: MATH201 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS]
@@ -3292,6 +3705,7 @@ Review: "not the professor to get an A with. He will make you work extremely har
 
 ---
 
+Review #411
 Professor: Matthew Auth | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -3300,6 +3714,7 @@ Review: "He does not care if you fail. If you care about your GPA, this is not t
 
 ---
 
+Review #412
 Professor: Matthew Auth | Course: CALC20105 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Respected, Amazing lectures, Caring]
@@ -3308,6 +3723,7 @@ Review: "He always takes time to help students to understand the material"
 
 ---
 
+Review #413
 Professor: Matthew Auth | Course: MATH360 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, TEST HEAVY]
@@ -3316,6 +3732,7 @@ Review: "If you can avoid taking Modern Geo, don't. Horrible professor. Promises
 
 ---
 
+Review #414
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, GRADED BY FEW THINGS]
@@ -3324,6 +3741,7 @@ Review: "This guy does try to help you pass  the class. He is generous with part
 
 ---
 
+Review #415
 Professor: Matthew Auth | Course: MATH201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [GRADED BY FEW THINGS]
@@ -3332,6 +3750,7 @@ Review: "His tests are taken from web assign and although there are only 4-5 que
 
 ---
 
+Review #416
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Respected, LOTS OF HOMEWORK]
@@ -3340,6 +3759,7 @@ Review: "He gives interesting lectures and explains everything. the only bad thi
 
 ---
 
+Review #417
 Professor: Matthew Auth | Course: MATH201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -3348,6 +3768,7 @@ Review: "Auth is one of the worst Math professors in CCNY by far. His lectures t
 
 ---
 
+Review #418
 Professor: Matthew Auth | Course: CALC201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [LOTS OF HOMEWORK, Amazing lectures]
@@ -3356,6 +3777,7 @@ Review: "I have always hated Calculus. But upon taking his class, the material s
 
 ---
 
+Review #419
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, TEST HEAVY]
@@ -3364,6 +3786,7 @@ Review: "Its a really hard class. He's speaking into a mic thats how big the cla
 
 ---
 
+Review #420
 Professor: Matthew Auth | Course: MATH391 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Respected, Clear grading criteria]
@@ -3372,6 +3795,7 @@ Review: "Follow what he teaches in the lectures, and do the homework he gives on
 
 ---
 
+Review #421
 Professor: Matthew Auth | Course: CALC201 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, LECTURE HEAVY]
@@ -3380,6 +3804,7 @@ Review: "His teaching style is just providing examples. Once you complete it alo
 
 ---
 
+Review #422
 Professor: Matthew Auth | Course: MATH392 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: []
@@ -3388,6 +3813,7 @@ Review: "This is already a difficult class as it is.  The guy knows what he's do
 
 ---
 
+Review #423
 Professor: Matthew Auth | Course: MATH392 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -3396,6 +3822,7 @@ Review: "Prepare to self study because the examples he shows in class are too si
 
 ---
 
+Review #424
 Professor: Matthew Auth | Course: MATH360 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3404,6 +3831,7 @@ Review: "Absolute worse professor I have taken. He used this new book for Geomet
 
 ---
 
+Review #425
 Professor: Matthew Auth | Course: MATH392 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -3412,6 +3840,7 @@ Review: "If you don't practice the problems that he gives for homework, you will
 
 ---
 
+Review #426
 Professor: Matthew Auth | Course: CALC20500 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -3420,6 +3849,7 @@ Review: "This guy did not make it easy to pass his class. He is very unclear wit
 
 ---
 
+Review #427
 Professor: Matthew Auth | Course: 39200 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -3428,6 +3858,7 @@ Review: "He gave only two test the whole semester. Basically if you failed one t
 
 ---
 
+Review #428
 Professor: Matthew Auth | Course: 195 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -3436,6 +3867,7 @@ Review: "Number 1 Professor in City College"
 
 ---
 
+Review #429
 Professor: Matthew Auth | Course: MATH190 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -3444,6 +3876,7 @@ Review: "Best Professor ever and he know what he have to do for class."
 
 ---
 
+Review #430
 Professor: Matthew Auth | Course: 19000 | Rating: 3.5 | Difficulty: 3.0
 
 Tags: []
@@ -3452,6 +3885,7 @@ Review: "Passed Auth's 19000 with a C but he SUCCEEDED IN PREPARING me for pre-c
 
 ---
 
+Review #431
 Professor: Matthew Auth | Course: 39200 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3460,6 +3894,7 @@ Review: "He looks like he is never prepared, he spends so much time on a student
 
 ---
 
+Review #432
 Professor: Matthew Auth | Course: MATH19000 | Rating: 4.5 | Difficulty: 3.0
 
 Tags: []
@@ -3468,6 +3903,7 @@ Review: "He's not for everybody. The way he teaches seemed to make everything ha
 
 ---
 
+Review #433
 Professor: Matthew Auth | Course: 39200 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -3476,6 +3912,7 @@ Review: "Sometimes I wonder if he should be a professor. He is really disorganiz
 
 ---
 
+Review #434
 Professor: Matthew Auth | Course: 39200 | Rating: 1.5 | Difficulty: 5.0
 
 Tags: []
@@ -3484,6 +3921,7 @@ Review: "He spends 90% of class time talking about "intuition" and then says "th
 
 ---
 
+Review #435
 Professor: Matthew Auth | Course: 39200 | Rating: 1.5 | Difficulty: 5.0
 
 Tags: []
@@ -3492,6 +3930,7 @@ Review: "He spends 90% of class time talking about "intuition" and then says "th
 
 ---
 
+Review #436
 Professor: Matthew Auth | Course: 39200 | Rating: 1.5 | Difficulty: 5.0
 
 Tags: []
@@ -3500,6 +3939,7 @@ Review: "He spends 90% of class time talking about "intuition" and then says "th
 
 ---
 
+Review #437
 Professor: Matthew Auth | Course: MATH1900 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -3508,6 +3948,7 @@ Review: "One of the BEST math teachers and I'm BAD at math! He makes sure we all
 
 ---
 
+Review #438
 Professor: Keino Brown | Course: MATH213 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Test heavy]
@@ -3516,6 +3957,7 @@ Review: "This course really needs a tutorial class where someone solves exam-lik
 
 ---
 
+Review #439
 Professor: Keino Brown | Course: MATH213 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Graded by few things]
@@ -3524,6 +3966,7 @@ Review: "He is a good teacher and good at explaining things, however his test ar
 
 ---
 
+Review #440
 Professor: Keino Brown | Course: MATH323 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Test heavy]
@@ -3532,6 +3975,7 @@ Review: "Rmp won't even let me tell everything about brown.I don't know what he 
 
 ---
 
+Review #441
 Professor: Keino Brown | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Graded by few things]
@@ -3540,6 +3984,7 @@ Review: "Expected the worst but got the exact opposite. Lectures are clear so yo
 
 ---
 
+Review #442
 Professor: Keino Brown | Course: MATH213 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy]
@@ -3548,6 +3993,7 @@ Review: "He's honestly not that bad and is a pretty chill professor. He stops ta
 
 ---
 
+Review #443
 Professor: Keino Brown | Course: 201 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -3556,6 +4002,7 @@ Review: "Definitely not recommended for calculus 1. He is old school and expects
 
 ---
 
+Review #444
 Professor: Keino Brown | Course: MATH213 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: [Tough grader]
@@ -3564,6 +4011,7 @@ Review: "How is he still a professor?"
 
 ---
 
+Review #445
 Professor: Keino Brown | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Clear grading criteria, Inspirational]
@@ -3572,6 +4020,7 @@ Review: "Such an amazing professor. His lectures give a very deep understanding 
 
 ---
 
+Review #446
 Professor: Keino Brown | Course: MATH-21200 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Clear grading criteria, Test heavy]
@@ -3580,6 +4029,7 @@ Review: "His grading system is either pass his exams and do good on his weekly q
 
 ---
 
+Review #447
 Professor: Keino Brown | Course: MATH213 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Graded by few things]
@@ -3588,6 +4038,7 @@ Review: "You need to self-teach yourself before you even go to class, his teachi
 
 ---
 
+Review #448
 Professor: Keino Brown | Course: MATH323 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Clear grading criteria, Lots of homework, Test heavy]
@@ -3596,6 +4047,7 @@ Review: "For higher level Math courses that are based off on proof-writing he is
 
 ---
 
+Review #449
 Professor: Keino Brown | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3604,6 +4056,7 @@ Review: "absolutely horrible will yawn you to sleep in his class, just reads eve
 
 ---
 
+Review #450
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -3613,6 +4066,7 @@ The only thing I would give to him is that if you did really good in the final e
 
 ---
 
+Review #451
 Professor: Keino Brown | Course: MATH202 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -3621,6 +4075,7 @@ Review: "Smart guy and does a decent job of covering the material while keeping 
 
 ---
 
+Review #452
 Professor: Keino Brown | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Get ready to read, Clear grading criteria]
@@ -3629,6 +4084,7 @@ Review: "He is much better Professor than he is being given credit for, just be 
 
 ---
 
+Review #453
 Professor: Keino Brown | Course: MATH213 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, Test heavy, Accessible outside class]
@@ -3637,6 +4093,7 @@ Review: "Not bad; clearly explains most concepts and does many problems in class
 
 ---
 
+Review #454
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Caring, Lecture heavy, Graded by few things]
@@ -3645,6 +4102,7 @@ Review: "He's hard, but not as bad as others say, ask or email him about any que
 
 ---
 
+Review #455
 Professor: Keino Brown | Course: MATH213 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader]
@@ -3653,6 +4111,7 @@ Review: "Bad grader... a minor mistake such as a negative sign will cost you fiv
 
 ---
 
+Review #456
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -3661,6 +4120,7 @@ Review: "Instead of giving us clear examples, he just gave theoretical applicati
 
 ---
 
+Review #457
 Professor: Keino Brown | Course: MATH20100 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Test heavy]
@@ -3669,6 +4129,7 @@ Review: "Gives harder tests than other professors, making it difficult to pass h
 
 ---
 
+Review #458
 Professor: Keino Brown | Course: 20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Graded by few things]
@@ -3677,6 +4138,7 @@ Review: "."
 
 ---
 
+Review #459
 Professor: Keino Brown | Course: MATH190 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Beware of pop quizzes, Lecture heavy]
@@ -3685,6 +4147,7 @@ Review: "Learning a new chapter then having to do at home activities"
 
 ---
 
+Review #460
 Professor: Keino Brown | Course: 20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Clear grading criteria]
@@ -3693,6 +4156,7 @@ Review: "Hey guys ima be honest he is tough he gives you the hardest exams. I do
 
 ---
 
+Review #461
 Professor: Keino Brown | Course: MATH190 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Beware of pop quizzes]
@@ -3701,6 +4165,7 @@ Review: "He is very controlling with homework and grades badly"
 
 ---
 
+Review #462
 Professor: Keino Brown | Course: MATH190 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3709,6 +4174,7 @@ Review: "very non motivating and not understanding"
 
 ---
 
+Review #463
 Professor: Keino Brown | Course: MATH190 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Beware of pop quizzes, Test heavy]
@@ -3717,6 +4183,7 @@ Review: "Yo if you can't math when it's being taught by a dude with a THICK fore
 
 ---
 
+Review #464
 Professor: Keino Brown | Course: MATH190 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: [Clear grading criteria, Lecture heavy, Accessible outside class]
@@ -3725,6 +4192,7 @@ Review: "It's only the beginning of the semester, but when I selected him, I was
 
 ---
 
+Review #465
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Caring, Test heavy, Accessible outside class]
@@ -3733,6 +4201,7 @@ Review: "This class was very hard for me as a freshman who has never taken calc 
 
 ---
 
+Review #466
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3741,6 +4210,7 @@ Review: "And just a continuation, trying to transfer into Grove is tedious enoug
 
 ---
 
+Review #467
 Professor: Keino Brown | Course: 20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3749,6 +4219,7 @@ Review: "If you're not a freshman and need calc 1 to take calc 2 to get into Gro
 
 ---
 
+Review #468
 Professor: Keino Brown | Course: 201 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -3757,6 +4228,7 @@ Review: "Not the best professor but not the worst. I asked him how I can improve
 
 ---
 
+Review #469
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3765,6 +4237,7 @@ Review: "Man, just take an e-permit if he's the last available time slot. You'll
 
 ---
 
+Review #470
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3773,6 +4246,7 @@ Review: "Steer absolutely clear from this prof at all costs. I would suggest not
 
 ---
 
+Review #471
 Professor: Keino Brown | Course: 20100 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []
@@ -3781,6 +4255,7 @@ Review: "This class is 60% quizzes, 40% final, Professor Browns quizzes are almo
 
 ---
 
+Review #472
 Professor: Keino Brown | Course: 20100 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Gives good feedback, Caring, Test heavy]
@@ -3789,6 +4264,7 @@ Review: "Proffesor Brown was quite tough. He was not too good at actually teachi
 
 ---
 
+Review #473
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3797,6 +4273,7 @@ Review: "pt 3. And most importantly, PLEASE do not take him if you did not take 
 
 ---
 
+Review #474
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3805,6 +4282,7 @@ Review: "Pt 2. His lectures are not engaging, and you're lost half of the time b
 
 ---
 
+Review #475
 Professor: Keino Brown | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Graded by few things]
@@ -3813,6 +4291,7 @@ Review: "Part 1: Please do not take this professor. First, he only grades two th
 
 ---
 
+Review #476
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Inspirational, Lecture heavy, Test heavy]
@@ -3821,6 +4300,7 @@ Review: "Professor Brown is a nice guy, but not one of the best professors I eve
 
 ---
 
+Review #477
 Professor: Keino Brown | Course: MATH213 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, Beware of pop quizzes, Lecture heavy]
@@ -3829,6 +4309,7 @@ Review: "Good prof"
 
 ---
 
+Review #478
 Professor: Keino Brown | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Gives good feedback, Lecture heavy]
@@ -3837,6 +4318,7 @@ Review: "Good option. Exams are similar to the problems he does in class / the h
 
 ---
 
+Review #479
 Professor: Keino Brown | Course: MATH202 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -3845,6 +4327,7 @@ Review: "I took the class during the summer so a review of him might be wrong. H
 
 ---
 
+Review #480
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.5 | Difficulty: 3.0
 
 Tags: []
@@ -3853,6 +4336,7 @@ Review: "Test problems are from textbook and those are pretty tough and long."
 
 ---
 
+Review #481
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.5 | Difficulty: 4.0
 
 Tags: []
@@ -3861,6 +4345,7 @@ Review: "Calculus is not an easy class, if you're having a trouble,  it's not ne
 
 ---
 
+Review #482
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -3869,6 +4354,7 @@ Review: "He goes over the concepts for each section and does example problems du
 
 ---
 
+Review #483
 Professor: Keino Brown | Course: 201 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: []
@@ -3877,6 +4363,7 @@ Review: "Great professor although he makes you work for it. His final exam is ex
 
 ---
 
+Review #484
 Professor: Keino Brown | Course: MATH20100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -3885,6 +4372,7 @@ Review: "Very funny guy, and you can tell he loves math. However this passion ma
 
 ---
 
+Review #485
 Professor: Keino Brown | Course: 20100 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -3893,6 +4381,7 @@ Review: "My experience with Brown has been great. His tests are tough but he is 
 
 ---
 
+Review #486
 Professor: Keino Brown | Course: 20100 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: []
@@ -3901,6 +4390,7 @@ Review: "He isn't all that bad, I deserved a D and he have me a C+ , so I guess 
 
 ---
 
+Review #487
 Professor: Keino Brown | Course: 10100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3909,6 +4399,7 @@ Review: "Worst worst calc teacher ever. He has like 4-6 problems on his tests an
 
 ---
 
+Review #488
 Professor: Keino Brown | Course: ALGEBRA | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3917,6 +4408,7 @@ Review: "Ultimate worst."
 
 ---
 
+Review #489
 Professor: Keino Brown | Course: MATH185 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -3925,6 +4417,7 @@ Review: "This professor  is one of the best. I took his class is the spring of 2
 
 ---
 
+Review #490
 Professor: Keino Brown | Course: MATH190 | Rating: 1.5 | Difficulty: 4.0
 
 Tags: []
@@ -3933,6 +4426,7 @@ Review: "Do not take any class with him. Long tests, he is rude and if you have 
 
 ---
 
+Review #491
 Professor: Keino Brown | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3941,6 +4435,7 @@ Review: "this guy is probably the worst professor in the entire world. He messed
 
 ---
 
+Review #492
 Professor: Keino Brown | Course: MATH1801120 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3949,6 +4444,7 @@ Review: "HORRIBLE PROFESSOR. Will say one thing one class and then another the n
 
 ---
 
+Review #493
 Professor: Keino Brown | Course: MATH190000183 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -3957,6 +4453,7 @@ Review: "I have come across many math professors in my time, and Keino is certai
 
 ---
 
+Review #494
 Professor: Keino Brown | Course: MATH180 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -3965,6 +4462,7 @@ Review: "OMG!!! I Hate this professor. He is the worst, and the bad thing about 
 
 ---
 
+Review #495
 Professor: Keino Brown | Course: MATH180 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -3973,6 +4471,7 @@ Review: "Had to drop this nonsense class  along with other 5 students! Too much 
 
 ---
 
+Review #496
 Professor: Doris Pichardo | Course: 201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria]
@@ -3981,6 +4480,7 @@ Review: "Professor Pichardo is hands down my favorite professor this semester. S
 
 ---
 
+Review #497
 Professor: Doris Pichardo | Course: 20100 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Lecture heavy, Test heavy]
@@ -3989,6 +4489,7 @@ Review: "If you take her, be ready for a crazy amount of work. you have to do so
 
 ---
 
+Review #498
 Professor: Doris Pichardo | Course: 20100 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Lecture heavy, Accessible outside class]
@@ -3997,6 +4498,7 @@ Review: "she is veryy tough and strict, but she's good at teaching and explainin
 
 ---
 
+Review #499
 Professor: Doris Pichardo | Course: CAL202 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -4005,6 +4507,7 @@ Review: "She is not a bad professor but she made me hate maths. I had done extre
 
 ---
 
+Review #500
 Professor: Doris Pichardo | Course: 20100 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Amazing lectures, Clear grading criteria, Lecture heavy]
@@ -4013,6 +4516,7 @@ Review: "Overall a really great math teacher. Her lectures revolve around notes 
 
 ---
 
+Review #501
 Professor: Doris Pichardo | Course: 20100 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework]
@@ -4021,6 +4525,7 @@ Review: "She is not a bad professor and explains things clearly. She teaches sup
 
 ---
 
+Review #502
 Professor: Doris Pichardo | Course: 201 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -4029,6 +4534,7 @@ Review: "Tough Grader. Easy exams/quizzes (No curve but partial credit depends) 
 
 ---
 
+Review #503
 Professor: Doris Pichardo | Course: CALC2 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -4037,6 +4543,7 @@ Review: "Doris P. has a very structured teaching style, with detailed note packe
 
 ---
 
+Review #504
 Professor: Doris Pichardo | Course: CALC205 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Lecture heavy, Test heavy]
@@ -4045,6 +4552,7 @@ Review: "She is a good teacher when it comes to math. The only way you will do g
 
 ---
 
+Review #505
 Professor: Doris Pichardo | Course: CALC2 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Test heavy, Graded by few things]
@@ -4053,6 +4561,7 @@ Review: "She does not know how to teach the entire calc 2 syllabus within the gi
 
 ---
 
+Review #506
 Professor: Doris Pichardo | Course: CALC2 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Lots of homework, Caring]
@@ -4061,6 +4570,7 @@ Review: "Uses great fill-in note packets, provides extensive exam review materia
 
 ---
 
+Review #507
 Professor: Doris Pichardo | Course: CALC2 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Caring]
@@ -4069,6 +4579,7 @@ Review: "All lessons are based around fill-in packets with answer keys. She prov
 
 ---
 
+Review #508
 Professor: Doris Pichardo | Course: MATH190 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Lots of homework]
@@ -4077,6 +4588,7 @@ Review: "The course is slow in the beginning and very rushed at the end. She is 
 
 ---
 
+Review #509
 Professor: Doris Pichardo | Course: MATH201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Test heavy, Accessible outside class]
@@ -4085,6 +4597,7 @@ Review: "Her lectures are pretty fast paced, but it's reasonable bc there's a lo
 
 ---
 
+Review #510
 Professor: Doris Pichardo | Course: CALC2 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Lots of homework, Test heavy]
@@ -4093,6 +4606,7 @@ Review: "She started at a very slow paste in the beginnings than rush things at 
 
 ---
 
+Review #511
 Professor: Doris Pichardo | Course: 195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lots of homework, Lecture heavy]
@@ -4101,6 +4615,7 @@ Review: "She will call students out. You will have to do tons of homework, weekl
 
 ---
 
+Review #512
 Professor: Doris Pichardo | Course: 20100 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Lots of homework, Respected]
@@ -4109,6 +4624,7 @@ Review: "Keep up with the notes and hws she uploads because she gives quizzes ev
 
 ---
 
+Review #513
 Professor: Doris Pichardo | Course: MATH20100 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Amazing lectures, Accessible outside class]
@@ -4117,6 +4633,7 @@ Review: "The professor was a great teacher this semester. Although we had to rus
 
 ---
 
+Review #514
 Professor: Doris Pichardo | Course: MATH201 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Graded by few things]
@@ -4125,6 +4642,7 @@ Review: "I failed this class because I really didn't put in the effort at all th
 
 ---
 
+Review #515
 Professor: Doris Pichardo | Course: 195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -4133,6 +4651,7 @@ Review: "Do not take this class no matter what! This was my worst semester ever.
 
 ---
 
+Review #516
 Professor: Doris Pichardo | Course: 195201 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Amazing lectures, Test heavy]
@@ -4141,6 +4660,7 @@ Review: "She is a great professor. Had her for Math 195 back in the Fall 2018 Se
 
 ---
 
+Review #517
 Professor: Doris Pichardo | Course: 195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -4149,6 +4669,7 @@ Review: "!Horrible professor! AVOID HER. Had her for math 195 and she didn't tea
 
 ---
 
+Review #518
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Lecture heavy, Test heavy]
@@ -4158,6 +4679,7 @@ lectures well. If you want to take this course I recommend going to another teac
 
 ---
 
+Review #519
 Professor: Doris Pichardo | Course: MATH201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Graded by few things, Test heavy, Clear grading criteria]
@@ -4166,6 +4688,7 @@ Review: "Professor Pichardo is an amazing professor. I feel some people don't li
 
 ---
 
+Review #520
 Professor: Doris Pichardo | Course: CALC205 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Test heavy]
@@ -4174,6 +4697,7 @@ Review: "I had this class over the summer 21 and had to drop it. She is very con
 
 ---
 
+Review #521
 Professor: Doris Pichardo | Course: MATH205 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Test heavy]
@@ -4182,6 +4706,7 @@ Review: "Seriously, she needs to go easy on the exams. The questions are fair bu
 
 ---
 
+Review #522
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Test heavy]
@@ -4190,6 +4715,7 @@ Review: "She has such a rude attitude and does not CARE what you have to say. Sh
 
 ---
 
+Review #523
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Accessible outside class, Participation matters, Skip class? You won't pass.]
@@ -4198,6 +4724,7 @@ Review: "to be honest, at first, I hated this class and couldn't care to deal wi
 
 ---
 
+Review #524
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework]
@@ -4206,6 +4733,7 @@ Review: "this class is HORRIBLE!!!!!! you literally have to learn everything by 
 
 ---
 
+Review #525
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Gives good feedback, Lots of homework, Skip class? You won't pass.]
@@ -4214,6 +4742,7 @@ Review: "She is the best professor I've ever had. I had her a few semesters ago 
 
 ---
 
+Review #526
 Professor: Doris Pichardo | Course: MAT195 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -4222,6 +4751,7 @@ Review: "Just awful. Doesn't explains well. Gets angry for no reason. Math 195 i
 
 ---
 
+Review #527
 Professor: Doris Pichardo | Course: MAT195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Tough grader]
@@ -4230,6 +4760,7 @@ Review: "She is so bad. If you take her be ready to do everything alone. This cl
 
 ---
 
+Review #528
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 2.0 | Difficulty: 1.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Beware of pop quizzes]
@@ -4238,6 +4769,7 @@ Review: "I felt like her lectures were very long and confusing. I was always sca
 
 ---
 
+Review #529
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Tough grader]
@@ -4246,6 +4778,7 @@ Review: "Please avoid taking her for your own health. If you are not good at Mat
 
 ---
 
+Review #530
 Professor: Doris Pichardo | Course: MATH195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Skip class? You won't pass.]
@@ -4254,6 +4787,7 @@ Review: "I had her before covid, but I've heard her test are harder online. Eith
 
 ---
 
+Review #531
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -4262,6 +4796,7 @@ Review: "I'm starting to regret taking this class."
 
 ---
 
+Review #532
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lecture heavy, Tough grader]
@@ -4270,6 +4805,7 @@ Review: "DO NOT TAKE HER! She's rude and inconsiderate towards students. She has
 
 ---
 
+Review #533
 Professor: Doris Pichardo | Course: MAT195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -4278,6 +4814,7 @@ Review: "the worst math professor ever. I had to study everything on my own cuz 
 
 ---
 
+Review #534
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader]
@@ -4286,6 +4823,7 @@ Review: "if you really care about your grade and gpa then you should never take 
 
 ---
 
+Review #535
 Professor: Doris Pichardo | Course: MATH20100 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -4294,6 +4832,7 @@ Review: "She makes the class harder than it supposed."
 
 ---
 
+Review #536
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Caring]
@@ -4302,6 +4841,7 @@ Review: "She is just perfect for the class. I wished she would teach every math 
 
 ---
 
+Review #537
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Accessible outside class, Skip class? You won't pass., Hilarious]
@@ -4310,6 +4850,7 @@ Review: "If you want a math professor with great vibes? TAKE HER! She gives prac
 
 ---
 
+Review #538
 Professor: Doris Pichardo | Course: PRECAL | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Amazing lectures, Clear grading criteria]
@@ -4318,6 +4859,7 @@ Review: "If you miss class, it would be super hard. She gives you a lot of ways 
 
 ---
 
+Review #539
 Professor: Doris Pichardo | Course: CAL201 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Graded by few things, Test heavy, Tough grader]
@@ -4326,6 +4868,7 @@ Review: "Yall this class is nowhere near an easy class unless you have taken AP 
 
 ---
 
+Review #540
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Caring]
@@ -4334,6 +4877,7 @@ Review: "She is tough and demanding, but really loves her work. She wants you to
 
 ---
 
+Review #541
 Professor: Doris Pichardo | Course: MATH201 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Tough grader]
@@ -4342,6 +4886,7 @@ Review: "I remembered taking her for calc 1 and just dropping her class. Her att
 
 ---
 
+Review #542
 Professor: Doris Pichardo | Course: MAT195 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: [Lots of homework, Test heavy, Tough grader]
@@ -4350,6 +4895,7 @@ Review: "Just horrible, always rush rush. No patience"
 
 ---
 
+Review #543
 Professor: Doris Pichardo | Course: MATH195 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., Test heavy, Tough grader]
@@ -4358,6 +4904,7 @@ Review: "Take this class only if you have to. It was very rushed and all she car
 
 ---
 
+Review #544
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Skip class? You won't pass., Test heavy, Tough grader]
@@ -4366,6 +4913,7 @@ Review: "horrible professor, do not take her. rushed through the whole class and
 
 ---
 
+Review #545
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Lots of homework]
@@ -4374,6 +4922,7 @@ Review: "The notes are amazing. She takes so many quizzes. Practice a lot and yo
 
 ---
 
+Review #546
 Professor: Doris Pichardo | Course: MATH201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Clear grading criteria, Lecture heavy]
@@ -4382,6 +4931,7 @@ Review: "Ms. Pichardo's "notes" are worksheets with lots of problems. Answer key
 
 ---
 
+Review #547
 Professor: Doris Pichardo | Course: BRIDGETOMATH212 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Gives good feedback, Hilarious, Amazing lectures]
@@ -4390,6 +4940,7 @@ Review: "I had Pichardo for Bridge to MATH 212, and her notes are the best notes
 
 ---
 
+Review #548
 Professor: Doris Pichardo | Course: CAL1 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [LOTS OF HOMEWORK, Hilarious, Amazing lectures]
@@ -4398,6 +4949,7 @@ Review: "Was a really great class, never before had such a great math teacher. S
 
 ---
 
+Review #549
 Professor: Doris Pichardo | Course: MATH201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., LOTS OF HOMEWORK, Clear grading criteria]
@@ -4406,6 +4958,7 @@ Review: "She does her best to teach the course, but if you don't show up to clas
 
 ---
 
+Review #550
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -4414,6 +4967,7 @@ Review: "She is one of the worse professor. She is really rude. She made my whol
 
 ---
 
+Review #551
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [LOTS OF HOMEWORK, Hilarious, Caring]
@@ -4422,6 +4976,7 @@ Review: "I think she is really easy to understand. There was a lot of homework b
 
 ---
 
+Review #552
 Professor: Doris Pichardo | Course: MAT195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Tough Grader]
@@ -4430,6 +4985,7 @@ Review: "Does not know how to teach, very fast pace, gives a lot of assignments.
 
 ---
 
+Review #553
 Professor: Doris Pichardo | Course: MAT195 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -4438,6 +4994,7 @@ Review: "She is okay if that is the only class youre taking in a semester. Unbea
 
 ---
 
+Review #554
 Professor: Doris Pichardo | Course: MATH195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Skip class? You won't pass., TEST HEAVY]
@@ -4446,6 +5003,7 @@ Review: "can't teach"
 
 ---
 
+Review #555
 Professor: Doris Pichardo | Course: MATH20500 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [LOTS OF HOMEWORK, Clear grading criteria, Hilarious]
@@ -4454,6 +5012,7 @@ Review: "Professor Pichardo made calculus bearable. She is very humorous even wh
 
 ---
 
+Review #556
 Professor: Doris Pichardo | Course: CALC205 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Respected, Clear grading criteria]
@@ -4462,6 +5021,7 @@ Review: "Great class. If you do your HW, you will do very well. She answered any
 
 ---
 
+Review #557
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., LECTURE HEAVY]
@@ -4470,6 +5030,7 @@ Review: "She's honestly a great professor. The beginning of the semester is a lo
 
 ---
 
+Review #558
 Professor: Doris Pichardo | Course: MAT195 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., TEST HEAVY]
@@ -4478,6 +5039,7 @@ Review: "Your grade is dependent on two things, quizzes and tests. She has notes
 
 ---
 
+Review #559
 Professor: Doris Pichardo | Course: MATH195 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., LOTS OF HOMEWORK, Clear grading criteria]
@@ -4486,6 +5048,7 @@ Review: "Here's the thing. You will have to work hard. However, she makes all th
 
 ---
 
+Review #560
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Respected, LOTS OF HOMEWORK]
@@ -4494,6 +5057,7 @@ Review: "one of the only professors who still give paper math homework (doesnt c
 
 ---
 
+Review #561
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Respected, LOTS OF HOMEWORK, TEST HEAVY]
@@ -4502,6 +5066,7 @@ Review: "collect her past exams and you're guaranteed an A"
 
 ---
 
+Review #562
 Professor: Doris Pichardo | Course: CALC202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass.]
@@ -4510,6 +5075,7 @@ Review: "Professor Pichardo was one of the best, if not the best professors at C
 
 ---
 
+Review #563
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., LOTS OF HOMEWORK]
@@ -4518,6 +5084,7 @@ Review: "I really enjoyed her class. No textbook, she puts all the notes and hom
 
 ---
 
+Review #564
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Tough Grader, Skip class? You won't pass., Would take again]
@@ -4526,6 +5093,7 @@ Review: "You won't find a better calc 2 professor. 4 exams 10 quizzes, she drops
 
 ---
 
+Review #565
 Professor: Doris Pichardo | Course: MAT202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Respected, Caring]
@@ -4534,6 +5102,7 @@ Review: "at first i didnt like her bc she grades quizzes very harshly but u get 
 
 ---
 
+Review #566
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Respected, Skip class? You won't pass., Clear grading criteria]
@@ -4542,6 +5111,7 @@ Review: "Pichardo is a true gem. She presents the material clearly and provides 
 
 ---
 
+Review #567
 Professor: Doris Pichardo | Course: CAL202 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK, Hilarious]
@@ -4550,6 +5120,7 @@ Review: "dont get me wrong, shes an amazing teacher. she gives 4 exams and drops
 
 ---
 
+Review #568
 Professor: Doris Pichardo | Course: CAL201 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, TEST HEAVY]
@@ -4558,6 +5129,7 @@ Review: "Fast paced class, walks you through solutions and makes you practice on
 
 ---
 
+Review #569
 Professor: Doris Pichardo | Course: MATH195 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, LOTS OF HOMEWORK]
@@ -4566,6 +5138,7 @@ Review: "She was ok but she needs to improve a lot. She grades too harshly. Her 
 
 ---
 
+Review #570
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, TEST HEAVY, GRADED BY FEW THINGS]
@@ -4574,6 +5147,7 @@ Review: "This professor is such a bad professor i ever had. even tho I passed in
 
 ---
 
+Review #571
 Professor: Doris Pichardo | Course: CALC201 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, TEST HEAVY, Amazing lectures]
@@ -4582,6 +5156,7 @@ Review: "This class is hard because you have to work for it. She is an amazing p
 
 ---
 
+Review #572
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4590,6 +5165,7 @@ Review: "She was THE BEST calc 2 teacher ever. You have to work for her class bu
 
 ---
 
+Review #573
 Professor: Doris Pichardo | Course: MATH190 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Skip class? You won't pass., TEST HEAVY]
@@ -4598,6 +5174,7 @@ Review: "Currently taking her for the 4 week summer course. She teaches extremel
 
 ---
 
+Review #574
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Tough Grader]
@@ -4606,6 +5183,7 @@ Review: "Teaching is her passion. if you want to learn and do well, make sure to
 
 ---
 
+Review #575
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Respected, Skip class? You won't pass., Amazing lectures]
@@ -4614,6 +5192,7 @@ Review: "Honestly the best calc professor ever. She prints out notes for her stu
 
 ---
 
+Review #576
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Skip class? You won't pass., ACCESSIBLE OUTSIDE CLASS, Amazing lectures]
@@ -4622,6 +5201,7 @@ Review: "She is an amazing teacher. She has all of the notes with answers on bla
 
 ---
 
+Review #577
 Professor: Doris Pichardo | Course: CAL202 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Respected, LOTS OF HOMEWORK]
@@ -4630,6 +5210,7 @@ Review: "She gives good amount of notes for practice and can teach decently but 
 
 ---
 
+Review #578
 Professor: Doris Pichardo | Course: CAL202 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Respected, Skip class? You won't pass.]
@@ -4638,6 +5219,7 @@ Review: "People love her so much and I took her thinking she was going to be a e
 
 ---
 
+Review #579
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Respected, Caring]
@@ -4646,6 +5228,7 @@ Review: "GREAT!!! she truly cares about the class, makes things clear as possibl
 
 ---
 
+Review #580
 Professor: Doris Pichardo | Course: MATH195 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Respected, Inspirational, Amazing lectures]
@@ -4654,6 +5237,7 @@ Review: "Hands down the best professor I have ever had. She is extremely knowled
 
 ---
 
+Review #581
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Clear grading criteria, Amazing lectures]
@@ -4662,6 +5246,7 @@ Review: "She is AMAZING. She really loves teaching math. She would go over probl
 
 ---
 
+Review #582
 Professor: Doris Pichardo | Course: MAT195 | Rating: 5.0 | Difficulty: 5.0
 
 Tags: [LOTS OF HOMEWORK, ACCESSIBLE OUTSIDE CLASS, Hilarious]
@@ -4670,6 +5255,7 @@ Review: "This is the best professor I've ever met during my summer time with her
 
 ---
 
+Review #583
 Professor: Doris Pichardo | Course: CALC201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, ACCESSIBLE OUTSIDE CLASS, Amazing lectures]
@@ -4678,6 +5264,7 @@ Review: "She is without a doubt one of the best professors at CCNY. I took her f
 
 ---
 
+Review #584
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4686,6 +5273,7 @@ Review: "One of the best prof i have ever came across. I never understood math u
 
 ---
 
+Review #585
 Professor: Doris Pichardo | Course: MATH190 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4694,6 +5282,7 @@ Review: "She is truly amazing in this class because she taught so many things in
 
 ---
 
+Review #586
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -4702,6 +5291,7 @@ Review: "I had Pichardo for calc 2- one of the toughest courses. Her lectures re
 
 ---
 
+Review #587
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4710,6 +5300,7 @@ Review: "AMAZING SHE IS AMAZING"
 
 ---
 
+Review #588
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -4718,6 +5309,7 @@ Review: "Worst professor ever. She swears. She don't care to tell anything to yo
 
 ---
 
+Review #589
 Professor: Doris Pichardo | Course: CALC2 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4726,6 +5318,7 @@ Review: "Professor Pichardo is the best math professor. Just do whatever thing s
 
 ---
 
+Review #590
 Professor: Doris Pichardo | Course: MAT195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -4734,6 +5327,7 @@ Review: "Great professor but you really have to do all the assigned hw or you wo
 
 ---
 
+Review #591
 Professor: Doris Pichardo | Course: CAL202 | Rating: 4.5 | Difficulty: 4.0
 
 Tags: []
@@ -4742,6 +5336,7 @@ Review: "Pichardo is a great professor and very helpful. Her courses are well or
 
 ---
 
+Review #592
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4750,6 +5345,7 @@ Review: "Pichardo is a great professor and very helpful. Her courses are well or
 
 ---
 
+Review #593
 Professor: Doris Pichardo | Course: MATH195 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -4758,6 +5354,7 @@ Review: "I dont have her now but i wish i did!!! i enjoyed her class so much and
 
 ---
 
+Review #594
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -4766,6 +5363,7 @@ Review: "TAKE HER!Best Math Professor at City College hands down. Super organize
 
 ---
 
+Review #595
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 5.0
 
 Tags: []
@@ -4774,6 +5372,7 @@ Review: "Teaches complex material in a very, very clear cut way and takes diffic
 
 ---
 
+Review #596
 Professor: Doris Pichardo | Course: CAL201 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4782,6 +5381,7 @@ Review: "She is a great instructor, she does well with balancing fun, and the le
 
 ---
 
+Review #597
 Professor: Doris Pichardo | Course: CAL202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4790,6 +5390,7 @@ Review: "Pichardo is by far one of the best math proffesors at CCNY. She explain
 
 ---
 
+Review #598
 Professor: Doris Pichardo | Course: CAL202 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -4798,6 +5399,7 @@ Review: "She's a really great professor and goes over each lesson in a pace that
 
 ---
 
+Review #599
 Professor: Doris Pichardo | Course: CAL202 | Rating: 4.5 | Difficulty: 3.0
 
 Tags: []
@@ -4806,6 +5408,7 @@ Review: "Prof Pichardo is a very good professor. She gives quizzes often which p
 
 ---
 
+Review #600
 Professor: Doris Pichardo | Course: CAL202 | Rating: 4.5 | Difficulty: 4.0
 
 Tags: []
@@ -4814,6 +5417,7 @@ Review: "Pichardo is one of the best professors at CCNY. The reason why students
 
 ---
 
+Review #601
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4822,6 +5426,7 @@ Review: "One of best professors at CCNY. Makes math enjoyable. Very funny. Teach
 
 ---
 
+Review #602
 Professor: Doris Pichardo | Course: MATH20200 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4830,6 +5435,7 @@ Review: "Pichardo is one of the best math teachers ever; she's certainly among t
 
 ---
 
+Review #603
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 4.5 | Difficulty: 3.0
 
 Tags: []
@@ -4838,6 +5444,7 @@ Review: "If you complain about her you are just plain lazy. Pichardo gives you t
 
 ---
 
+Review #604
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4846,6 +5453,7 @@ Review: "Definitely one of the best professors for math. She teaches you what yo
 
 ---
 
+Review #605
 Professor: Doris Pichardo | Course: MATH 101 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4854,6 +5462,7 @@ Review: "really good teacher, cares and passionate about math! if you like math,
 
 ---
 
+Review #606
 Professor: Doris Pichardo | Course: 201 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4862,6 +5471,7 @@ Review: "Great teacher"
 
 ---
 
+Review #607
 Professor: Doris Pichardo | Course: 195 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -4870,6 +5480,7 @@ Review: "Stacks a lot of homework and expects you to be a math genius. Cant teac
 
 ---
 
+Review #608
 Professor: Doris Pichardo | Course: MATH19500 | Rating: 2.5 | Difficulty: 5.0
 
 Tags: []
@@ -4878,6 +5489,7 @@ Review: "On top that she is a tough grader. She has an unwelcoming character, al
 
 ---
 
+Review #609
 Professor: Doris Pichardo | Course: MATH201 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -4886,6 +5498,7 @@ Review: "Homework, homework, and more homework, but it definitely helps. Don't n
 
 ---
 
+Review #610
 Professor: Doris Pichardo | Course: MATH201 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4894,6 +5507,7 @@ Review: "One of the best professors on campus. Her notes are what gets you throu
 
 ---
 
+Review #611
 Professor: Doris Pichardo | Course: 201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -4902,6 +5516,7 @@ Review: "quizzes are hard and weighs a lot"
 
 ---
 
+Review #612
 Professor: Doris Pichardo | Course: 201 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: []
@@ -4910,6 +5525,7 @@ Review: "quizzes are hard and weighs a lot"
 
 ---
 
+Review #613
 Professor: Doris Pichardo | Course: 202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4918,6 +5534,7 @@ Review: "The Best Professor ever. Do all the assigned homework and you will pass
 
 ---
 
+Review #614
 Professor: Doris Pichardo | Course: CALC201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -4926,6 +5543,7 @@ Review: "Best Math class ever!!, I absolutely adore this professor. Concepts whi
 
 ---
 
+Review #615
 Professor: Doris Pichardo | Course: CALC201 | Rating: 3.5 | Difficulty: 4.0
 
 Tags: []
@@ -4934,6 +5552,7 @@ Review: "This professor is tough. Quizzes almost every week, about 4 exams, and 
 
 ---
 
+Review #616
 Professor: Doris Pichardo | Course: 20100 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4942,6 +5561,7 @@ Review: "Pichardo is a great teacher and I received an A+ in her class. Her hw i
 
 ---
 
+Review #617
 Professor: Doris Pichardo | Course: 20200 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: []
@@ -4950,6 +5570,7 @@ Review: "She goes over all types of questions in class and then she'll assign ab
 
 ---
 
+Review #618
 Professor: Doris Pichardo | Course: CALC202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -4958,6 +5579,7 @@ Review: "NO DOUBT,TAKE HER!!!!! bEST PROF EVER!! She gives you four tests(drop 1
 
 ---
 
+Review #619
 Professor: Doris Pichardo | Course: CALC201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4966,6 +5588,7 @@ Review: "Ms Pichardo is a clear and helpful professor, her homework, quizzes, an
 
 ---
 
+Review #620
 Professor: Doris Pichardo | Course: 20300 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4974,6 +5597,7 @@ Review: "GOOD TEACHER"
 
 ---
 
+Review #621
 Professor: Doris Pichardo | Course: CALC1 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -4982,6 +5606,7 @@ Review: "She is a great professor, very dedicated and down to earth. She's willi
 
 ---
 
+Review #622
 Professor: Doris Pichardo | Course: CALC201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -4990,6 +5615,7 @@ Review: "This teacher was amazing. If you see her name on any math class, take i
 
 ---
 
+Review #623
 Professor: Doris Pichardo | Course: MATH205 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -4998,6 +5624,7 @@ Review: "Doris Pichardo is perhaps the best professor I have had in my entire li
 
 ---
 
+Review #624
 Professor: Doris Pichardo | Course: APCALC | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -5006,6 +5633,7 @@ Review: "I freaking loved her. She was so helpful and funny. She is more of a to
 
 ---
 
+Review #625
 Professor: Doris Pichardo | Course: MAT202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5014,6 +5642,7 @@ Review: "One of the best STEM professors I've ever had. She designed her own hom
 
 ---
 
+Review #626
 Professor: Doris Pichardo | Course: MATH205 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5022,6 +5651,7 @@ Review: "She is very nice,kinda like a tough love type of person. She gives 4 ex
 
 ---
 
+Review #627
 Professor: Doris Pichardo | Course: MATH202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5030,6 +5660,7 @@ Review: "Professor Pichardo is great. She'll go to extreme lengths just to make 
 
 ---
 
+Review #628
 Professor: Doris Pichardo | Course: MATH202 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: []
@@ -5038,6 +5669,7 @@ Review: "Great Professor.Easy class, you should at least get a B but you should 
 
 ---
 
+Review #629
 Professor: Doris Pichardo | Course: MATH202 | Rating: 4.5 | Difficulty: 1.0
 
 Tags: []
@@ -5046,6 +5678,7 @@ Review: "Very straight forward. She emphasizes the importance of integration tec
 
 ---
 
+Review #630
 Professor: Doris Pichardo | Course: MATH201 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5054,6 +5687,7 @@ Review: "Really good professor, provides students with a lot of material to prac
 
 ---
 
+Review #631
 Professor: Strashimir Popvassilev | Course: MATH346 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -5062,6 +5696,7 @@ Review: "Professer read out of the textbook the entire semester. He read the tex
 
 ---
 
+Review #632
 Professor: Strashimir Popvassilev | Course: MATH346 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Caring, Test heavy, Graded by few things]
@@ -5070,6 +5705,7 @@ Review: "Honestly not a great lecturer (for Linear specifically, good for CALC3)
 
 ---
 
+Review #633
 Professor: Strashimir Popvassilev | Course: MATH346 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Test heavy, Graded by few things]
@@ -5078,6 +5714,7 @@ Review: "I don't know. His lectures are not helpful. He mumbles and scribbles an
 
 ---
 
+Review #634
 Professor: Strashimir Popvassilev | Course: MATH346 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Test heavy]
@@ -5086,6 +5723,7 @@ Review: "If you actually want to learn instead of self-studying, don't take him.
 
 ---
 
+Review #635
 Professor: Strashimir Popvassilev | Course: 39100 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -5094,6 +5732,7 @@ Review: "Niceeeeeeee"
 
 ---
 
+Review #636
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Inspirational, Respected]
@@ -5104,6 +5743,7 @@ Review: "Bro is the goat of calculus. His quizzes were just like the exams and w
 
 ---
 
+Review #637
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria]
@@ -5112,6 +5752,7 @@ Review: "I took him over the summer and he's a great professor! He made the clas
 
 ---
 
+Review #638
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Inspirational, Lots of homework, Hilarious]
@@ -5120,6 +5761,7 @@ Review: "Without a doubt the best calc prof I've ever had. Can come off as sting
 
 ---
 
+Review #639
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: []
@@ -5128,6 +5770,7 @@ Review: "Chill professor, flexible with deadlines and gives extensions. Three ta
 
 ---
 
+Review #640
 Professor: Strashimir Popvassilev | Course: CALC209 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Caring, Graded by few things]
@@ -5136,6 +5779,7 @@ Review: "Easy class. Attendance is not mandatory. Exams are exactly the same as 
 
 ---
 
+Review #641
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Inspirational, Lots of homework]
@@ -5144,6 +5788,7 @@ Review: "Who is Strashimir Popvassilev? To the blind, he is the gradient. To the
 
 ---
 
+Review #642
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Test heavy]
@@ -5152,6 +5797,7 @@ Review: "This professor makes it more manageable to pass calc 3 with his grading
 
 ---
 
+Review #643
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Hilarious, Caring, Accessible outside class]
@@ -5160,6 +5806,7 @@ Review: "good prof, easy to get good grade. keep in mind 95 is an A for his clas
 
 ---
 
+Review #644
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Inspirational, Hilarious, Caring]
@@ -5168,6 +5815,7 @@ Review: "Pop didn't just teach Calc 3—he rewired my brain and aligned my chakr
 
 ---
 
+Review #645
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Caring, Accessible outside class]
@@ -5176,6 +5824,7 @@ Review: "This man is 100% worth taking as long as you study the topics well. Gen
 
 ---
 
+Review #646
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -5184,6 +5833,7 @@ Review: "Took him in Spring 2024. First exam right before spring break. Took him
 
 ---
 
+Review #647
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Clear grading criteria, Caring, Respected]
@@ -5192,6 +5842,7 @@ Review: "He is amazing!"
 
 ---
 
+Review #648
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Clear grading criteria, Hilarious]
@@ -5200,6 +5851,7 @@ Review: "He is the goat for calc3. Super lenient with grading, you'll get lots o
 
 ---
 
+Review #649
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Clear grading criteria, Caring, Accessible outside class]
@@ -5208,6 +5860,7 @@ Review: "super chill prof. also his exam 4 was v similar to final which was sick
 
 ---
 
+Review #650
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Caring, Respected]
@@ -5216,6 +5869,7 @@ Review: "He's extremely nice, honestly almost too nice for the amount of people 
 
 ---
 
+Review #651
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Inspirational, Hilarious, Caring]
@@ -5224,6 +5878,7 @@ Review: "The amount of favors and extensions this prof gave was unreal. Very goo
 
 ---
 
+Review #652
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Amazing lectures, Caring, Accessible outside class]
@@ -5232,6 +5887,7 @@ Review: "His exams are fair, expectations are clear and does a lot of examples i
 
 ---
 
+Review #653
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Caring, Lecture heavy, Test heavy]
@@ -5240,6 +5896,7 @@ Review: "Supreme professor. Drops 2 exams total 4. 2 of them are take home (😏
 
 ---
 
+Review #654
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Caring, Respected, Accessible outside class]
@@ -5248,6 +5905,7 @@ Review: "Genuinely an amazing professor and actually is understanding of student
 
 ---
 
+Review #655
 Professor: Strashimir Popvassilev | Course: MATH203 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -5256,6 +5914,7 @@ Review: "This class was painful to take. He took the first exam a month before t
 
 ---
 
+Review #656
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [EXTRA CREDIT, Caring, Graded by few things]
@@ -5264,6 +5923,7 @@ Review: "He is lazy, but he's a good guy. He gave exams late and gave back grade
 
 ---
 
+Review #657
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Hilarious, Lecture heavy]
@@ -5272,6 +5932,7 @@ Review: "First exam was given when semester was halfway done. Didn't gave back t
 
 ---
 
+Review #658
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Tough grader, Lecture heavy, Graded by few things]
@@ -5280,6 +5941,7 @@ Review: "Good professor in terms of teaching content however he is slow. Didn't 
 
 ---
 
+Review #659
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Tough grader, Amazing lectures, Lecture heavy]
@@ -5288,6 +5950,7 @@ Review: "15% Quizzes | 45% Exams (top 2 from 4) 40% Department Final Exam | I fo
 
 ---
 
+Review #660
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Hilarious, Test heavy, Graded by few things]
@@ -5296,6 +5959,7 @@ Review: "He was not a bad professor but was a bit slow when it came to teaching.
 
 ---
 
+Review #661
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: []
@@ -5304,6 +5968,7 @@ Review: "didnt learn a single thing in class. not great at presenting the conten
 
 ---
 
+Review #662
 Professor: Strashimir Popvassilev | Course: MATH201 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Inspirational, Test heavy]
@@ -5312,6 +5977,7 @@ Review: "He is an legend, don't know why his rating is so low. He puts pictures 
 
 ---
 
+Review #663
 Professor: Strashimir Popvassilev | Course: MATH21200 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things]
@@ -5320,6 +5986,7 @@ Review: "For this class be prepared to self study. The final is nothing like the
 
 ---
 
+Review #664
 Professor: Strashimir Popvassilev | Course: MATH21200 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Hilarious, Test heavy, Graded by few things]
@@ -5328,6 +5995,7 @@ Review: "He wasn't a bad teacher, just a bit difficult to understand due to his 
 
 ---
 
+Review #665
 Professor: Strashimir Popvassilev | Course: MATH21200 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Accessible outside class]
@@ -5336,6 +6004,7 @@ Review: "Take if you have a strong background in math. He knows what he's talkin
 
 ---
 
+Review #666
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: [Get ready to read, Amazing lectures, Inspirational]
@@ -5344,6 +6013,7 @@ Review: "BEST PROFESSOR  I EVER TOOK BACK IN THE SPRING 2021 SEMESTER! I LOVED H
 
 ---
 
+Review #667
 Professor: Strashimir Popvassilev | Course: MATH213 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Lots of homework]
@@ -5352,6 +6022,7 @@ Review: "Honestly, the subject is hard so you have to put in your own effort too
 
 ---
 
+Review #668
 Professor: Strashimir Popvassilev | Course: MATH206 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Graded by few things, Test heavy]
@@ -5360,6 +6031,7 @@ Review: "Garbage professor. I'm a bio major and I don't hate math, but I also do
 
 ---
 
+Review #669
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Clear grading criteria]
@@ -5368,6 +6040,7 @@ Review: "Don't really see what the big deal is, he's very accommodating and if y
 
 ---
 
+Review #670
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: []
@@ -5376,6 +6049,7 @@ Review: "Basically you have to teach yourself, he takes notes he wrote from a pr
 
 ---
 
+Review #671
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Accessible outside class, Clear grading criteria, EXTRA CREDIT]
@@ -5384,6 +6058,7 @@ Review: "Popvassilev is an okay Professor. If you did not take MATH 190 then I d
 
 ---
 
+Review #672
 Professor: Strashimir Popvassilev | Course: MATH392 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Beware of pop quizzes, Tough grader]
@@ -5392,6 +6067,7 @@ Review: "Some perspective, i got the highest grade in the class. I am the only o
 
 ---
 
+Review #673
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -5400,6 +6076,7 @@ Review: "He doesn't know what he's teaching, and to be more specific, he did not
 
 ---
 
+Review #674
 Professor: Strashimir Popvassilev | Course: MATH19500 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []
@@ -5408,6 +6085,7 @@ Review: "If you need math to be explained well to understand it, don't take him.
 
 ---
 
+Review #675
 Professor: Strashimir Popvassilev | Course: MATH195 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: [Beware of pop quizzes, Tough grader]
@@ -5416,6 +6094,7 @@ Review: "He is consistently late to give lectures anywhere from 15-45 mins almos
 
 ---
 
+Review #676
 Professor: Strashimir Popvassilev | Course: MATH201 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: [Get ready to read, Test heavy, Hilarious]
@@ -5424,6 +6103,7 @@ Review: "He is a funny professor, self taught class. Asking him the right questi
 
 ---
 
+Review #677
 Professor: Strashimir Popvassilev | Course: MATH21200 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -5432,6 +6112,7 @@ Review: "He walks in class just as confused as the students. Has no lesson plans
 
 ---
 
+Review #678
 Professor: Strashimir Popvassilev | Course: MATH212 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Graded by few things, Test heavy]
@@ -5440,6 +6121,7 @@ Review: "Just don't take him. There are better professors who actually know the 
 
 ---
 
+Review #679
 Professor: Strashimir Popvassilev | Course: MATH203 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, TEST HEAVY, Would take again]
@@ -5448,6 +6130,7 @@ Review: "Hes a nice guy and a great professor. He explains things very thoroughl
 
 ---
 
+Review #680
 Professor: Strashimir Popvassilev | Course: MATH20200 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [ACCESSIBLE OUTSIDE CLASS, Clear grading criteria, TEST HEAVY]
@@ -5456,6 +6139,7 @@ Review: "Not the greatest teacher, proves that much of the learning done in coll
 
 ---
 
+Review #681
 Professor: Strashimir Popvassilev | Course: MATH328 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -5464,6 +6148,7 @@ Review: "This was a self-teaching class. If math is not your strength, then you 
 
 ---
 
+Review #682
 Professor: Strashimir Popvassilev | Course: MATH328 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5472,6 +6157,7 @@ Review: "Open book examinations which are useful considering all the formulas in
 
 ---
 
+Review #683
 Professor: Strashimir Popvassilev | Course: CALC204 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: [LOTS OF HOMEWORK, GRADED BY FEW THINGS]
@@ -5480,6 +6166,7 @@ Review: "Take home examinations"
 
 ---
 
+Review #684
 Professor: Strashimir Popvassilev | Course: MATH37500 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -5488,6 +6175,7 @@ Review: "He can't teach at all. If you want to take him get ready to teach yours
 
 ---
 
+Review #685
 Professor: Strashimir Popvassilev | Course: CALC205 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -5496,6 +6184,7 @@ Review: "If you can avoid taking him, please avoid him at all cost, that is if y
 
 ---
 
+Review #686
 Professor: Strashimir Popvassilev | Course: CALC205 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: []
@@ -5504,6 +6193,7 @@ Review: "If you took Calc beforehand, then you should be fine. If not, then be p
 
 ---
 
+Review #687
 Professor: Strashimir Popvassilev | Course: MATH37500 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5512,6 +6202,7 @@ Review: "OMG! He can't teach! But you can get an A in this class without ever cr
 
 ---
 
+Review #688
 Professor: Strashimir Popvassilev | Course: MATH39100 | Rating: 3.5 | Difficulty: 1.0
 
 Tags: []
@@ -5520,6 +6211,7 @@ Review: "He's ok. His tests were easy, but it's a self teach course. No point in
 
 ---
 
+Review #689
 Professor: Strashimir Popvassilev | Course: MATH20200 | Rating: 1.5 | Difficulty: 2.0
 
 Tags: []
@@ -5528,6 +6220,7 @@ Review: "Don't take this class unless you already know the material for Calc 202
 
 ---
 
+Review #690
 Professor: Strashimir Popvassilev | Course: MATH39100 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -5536,6 +6229,7 @@ Review: "I went to his office hours a lot. It saved  my semester . He's a nice p
 
 ---
 
+Review #691
 Professor: Strashimir Popvassilev | Course: 39100 | Rating: 2.5 | Difficulty: 2.0
 
 Tags: []
@@ -5544,6 +6238,7 @@ Review: "This guy is a easy going dude. He sure can't teach but he is a nice guy
 
 ---
 
+Review #692
 Professor: Strashimir Popvassilev | Course: MATH39100 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5552,6 +6247,7 @@ Review: "I didn't expect an A+ in his class. I did do well but no where near the
 
 ---
 
+Review #693
 Professor: Strashimir Popvassilev | Course: MATH20200 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -5560,6 +6256,7 @@ Review: "He teaches straight from the textbook but is prone to making mistakes. 
 
 ---
 
+Review #694
 Professor: Strashimir Popvassilev | Course: MATH201 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: []
@@ -5568,6 +6265,7 @@ Review: "This professor is very friendly and helpful. He takes his time to teach
 
 ---
 
+Review #695
 Professor: Strashimir Popvassilev | Course: MATH201 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: []
@@ -5576,6 +6274,7 @@ Review: "This guy is the worst professor hands down. The ONLY reason why I did s
 
 ---
 
+Review #696
 Professor: Strashimir Popvassilev | Course: MATH2010 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -5584,6 +6283,7 @@ Review: "here's an advice, Unless you're really good at math and easily understa
 
 ---
 
+Review #697
 Professor: Strashimir Popvassilev | Course: MATH202 | Rating: 1.5 | Difficulty: 2.0
 
 Tags: []
@@ -5592,6 +6292,7 @@ Review: "Please be aware of the following quotes he may mention in class: "Hallo
 
 ---
 
+Review #698
 Professor: Strashimir Popvassilev | Course: MATH202 | Rating: 1.0 | Difficulty: 2.0
 
 Tags: []
@@ -5600,6 +6301,7 @@ Review: "NOT clear when he speaks, so i fell asleep about 5 times. NOT prepared 
 
 ---
 
+Review #699
 Professor: Strashimir Popvassilev | Course: MATH36000 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -5608,6 +6310,7 @@ Review: "Nice guy but you will have to teach yourself most of the material. He i
 
 ---
 
+Review #700
 Professor: Strashimir Popvassilev | Course: MATH209 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -5616,6 +6319,7 @@ Review: "He's very straight forward, only the stuff he teaches you will appear o
 
 ---
 
+Review #701
 Professor: Strashimir Popvassilev | Course: MATH209 | Rating: 4.5 | Difficulty: 1.0
 
 Tags: []
@@ -5624,6 +6328,7 @@ Review: "I could never pronounce his name. He is a very nice person and tries hi
 
 ---
 
+Review #702
 Professor: Strashimir Popvassilev | Course: MATH391 | Rating: 2.5 | Difficulty: 3.0
 
 Tags: []
@@ -5632,6 +6337,7 @@ Review: "he comes to class completely unprepared, reads directly from the textbo
 
 ---
 
+Review #703
 Professor: Strashimir Popvassilev | Course: MATH209 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -5640,6 +6346,7 @@ Review: "He has a very I don't care attitude but not in a mean way. Always unpre
 
 ---
 
+Review #704
 Professor: Strashimir Popvassilev | Course: CALC209 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -5648,6 +6355,7 @@ Review: "This guy is amazing, he has a lot of hidden humor that most of the clas
 
 ---
 
+Review #705
 Professor: Strashimir Popvassilev | Course: MATH201 | Rating: 4.0 | Difficulty: 1.0
 
 Tags: []
@@ -5656,6 +6364,7 @@ Review: "Overall, he is a great and knowledgable professor! If you already have 
 
 ---
 
+Review #706
 Professor: Strashimir Popvassilev | Course: KK1950 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5664,6 +6373,7 @@ Review: "He is the man! if you know math take this guy for an easy A"
 
 ---
 
+Review #707
 Professor: Strashimir Popvassilev | Course: MATH209 | Rating: 4.5 | Difficulty: 1.0
 
 Tags: []
@@ -5672,6 +6382,7 @@ Review: "He's very helpful and explains everything as many times as you asks.ver
 
 ---
 
+Review #708
 Professor: Strashimir Popvassilev | Course: MATH391 | Rating: 1.0 | Difficulty: 1.0
 
 Tags: []
@@ -5680,6 +6391,7 @@ Review: "took calc 2 and he was okay. taking diffeqns and its the biggest waste 
 
 ---
 
+Review #709
 Professor: Strashimir Popvassilev | Course: MATH391 | Rating: 2.0 | Difficulty: 2.0
 
 Tags: []
@@ -5688,6 +6400,7 @@ Review: "Ok,I had him for both calc 2 and now differential equations. Feel he is
 
 ---
 
+Review #710
 Professor: Strashimir Popvassilev | Course: MATH202 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: []
@@ -5696,6 +6409,7 @@ Review: "recommended if you are slow in math"
 
 ---
 
+Review #711
 Professor: Strashimir Popvassilev | Course: CALCBC | Rating: 4.5 | Difficulty: 1.0
 
 Tags: []
@@ -5704,6 +6418,7 @@ Review: "He is the best professor ever! Really nice!! Exams are extremely easy. 
 
 ---
 
+Review #712
 Professor: Strashimir Popvassilev | Course: MATH202 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5712,6 +6427,7 @@ Review: "goes over so many examples in class and his explanations are very clear
 
 ---
 
+Review #713
 Professor: Strashimir Popvassilev | Course: CAL2 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5720,6 +6436,7 @@ Review: "He is very knowledgeable, and from him I learnt a lot. Kind to students
 
 ---
 
+Review #714
 Professor: Strashimir Popvassilev | Course: CALCMATH | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5728,6 +6445,7 @@ Review: "AWESOME TEACHER MAKES MATH SO EASY AND FUN I LOVE HIM AND HOW HE TEACHE
 
 ---
 
+Review #715
 Professor: Strashimir Popvassilev | Course: CALC205 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5736,6 +6454,7 @@ Review: "guy is the man. good teacher"
 
 ---
 
+Review #716
 Professor: Strashimir Popvassilev | Course: CALC204 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5744,6 +6463,7 @@ Review: "He makes make math really easy. If you ask a question he will answer an
 
 ---
 
+Review #717
 Professor: Strashimir Popvassilev | Course: MATH203 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -5752,6 +6472,7 @@ Review: "Easy"
 
 ---
 
+Review #718
 Professor: Strashimir Popvassilev | Course: MATH202 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: []
@@ -5760,6 +6481,7 @@ Review: "He is Great."
 
 ---
 
+Review #719
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Clear grading criteria]
@@ -5768,6 +6490,7 @@ Review: "He was caring especially since I did not take Calc 3 before Linear Alge
 
 ---
 
+Review #720
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: []
@@ -5776,6 +6499,7 @@ Review: "Paolillo is not the worst professor out there, makes sense why he is a 
 
 ---
 
+Review #721
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Lecture heavy, Test heavy]
@@ -5784,6 +6508,7 @@ Review: "Professor Anthony is a very smart man BUT he cannot teach. His lectures
 
 ---
 
+Review #722
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Tough grader, Get ready to read, Test heavy]
@@ -5792,6 +6517,7 @@ Review: "The man cracks up throughout the semester like something funny happened
 
 ---
 
+Review #723
 Professor: Anthony Paolillo | Course: MATH212 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [Clear grading criteria, Caring, Test heavy]
@@ -5800,6 +6526,7 @@ Review: "Professor is very caring and his exams are easy. Prepares you very well
 
 ---
 
+Review #724
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -5810,6 +6537,7 @@ For students who want a geometric understanding of math, he's the best. He showe
 
 ---
 
+Review #725
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [EXTRA CREDIT, Clear grading criteria, Test heavy]
@@ -5818,6 +6546,7 @@ Review: "Clear grading but very test-heavy. Lectures are hard to follow but he d
 
 ---
 
+Review #726
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: [Test heavy]
@@ -5826,6 +6555,7 @@ Review: "Hard to understand lectures. Is nice a person and gives partial credit 
 
 ---
 
+Review #727
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Caring, Lecture heavy]
@@ -5834,6 +6564,7 @@ Review: "My goat. Honestly a great professor. He gave a bunch of quizzes, in cla
 
 ---
 
+Review #728
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Lots of homework, Caring]
@@ -5842,6 +6573,7 @@ Review: "Caring and wants the best for his students. He is very passionate about
 
 ---
 
+Review #729
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: [Get ready to read, Test heavy, Graded by few things]
@@ -5850,6 +6582,7 @@ Review: "friendly person but hard to understand teaching"
 
 ---
 
+Review #730
 Professor: Anthony Paolillo | Course: MAT346 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT]
@@ -5858,6 +6591,7 @@ Review: "i took math for contemp world, tests are very similar to the review gui
 
 ---
 
+Review #731
 Professor: Anthony Paolillo | Course: MAT346 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Lots of homework, Hilarious, Test heavy]
@@ -5866,6 +6600,7 @@ Review: "Definitely one of the better math professors at CCNY. He doesn't curve 
 
 ---
 
+Review #732
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Hilarious, Caring, Test heavy]
@@ -5874,6 +6609,7 @@ Review: "He is a very kind and thoughtful guy who genuinely wants you to underst
 
 ---
 
+Review #733
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 5.0 | Difficulty: 2.0
 
 Tags: [EXTRA CREDIT, Lecture heavy, Test heavy]
@@ -5882,6 +6618,7 @@ Review: "Lectures were somewhat confusing but his homework and review sheets pre
 
 ---
 
+Review #734
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Graded by few things, Accessible outside class]
@@ -5890,6 +6627,7 @@ Review: "One of the better math professors in CCNY. I would take him again if i'
 
 ---
 
+Review #735
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Get ready to read, Lecture heavy, Test heavy]
@@ -5898,6 +6636,7 @@ Review: "He's one of the only profs that will give you a study guide for every e
 
 ---
 
+Review #736
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: [Clear grading criteria, Caring, Accessible outside class]
@@ -5906,6 +6645,7 @@ Review: "Professor Paolillo is the type of professor that has bad hand writing a
 
 ---
 
+Review #737
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Clear grading criteria, Caring, Accessible outside class]
@@ -5914,6 +6654,7 @@ Review: "An extremely nice person, but not the best teacher. He gives a lot of p
 
 ---
 
+Review #738
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Clear grading criteria, Test heavy, Graded by few things]
@@ -5922,6 +6663,7 @@ Review: "Use the ILA textbook! It is way better than the other textbook and is w
 
 ---
 
+Review #739
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 3.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Graded by few things]
@@ -5930,6 +6672,7 @@ Review: "His class is mainly just him lecturing and students taking notes. Very 
 
 ---
 
+Review #740
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Get ready to read, Test heavy, Graded by few things]
@@ -5938,6 +6681,7 @@ Review: "He's a great choice for this class. I like the order he taught things i
 
 ---
 
+Review #741
 Professor: Anthony Paolillo | Course: MATH346 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -5946,6 +6690,7 @@ Review: "Really hoped he curved :("
 
 ---
 
+Review #742
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 2.0 | Difficulty: 4.0
 
 Tags: [Test heavy, Clear grading criteria, Lecture heavy]
@@ -5954,6 +6699,7 @@ Review: "As difficult as any CCNY math class, except Professor Paollilo isn't th
 
 ---
 
+Review #743
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Respected]
@@ -5962,6 +6708,7 @@ Review: "Good Professor for the class. Fairly standard good math professor. Make
 
 ---
 
+Review #744
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 5.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Test heavy, Caring]
@@ -5970,6 +6717,7 @@ Review: "First off, this guy is one of the most unclear and one of the worst mat
 
 ---
 
+Review #745
 Professor: Anthony Paolillo | Course: MATH213 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Test heavy, Lecture heavy]
@@ -5978,6 +6726,7 @@ Review: "Professor is kind and understanding. The course itself is pretty diffic
 
 ---
 
+Review #746
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: []
@@ -5986,6 +6735,7 @@ Review: "I never attended any lectures, anything youll need to know about this c
 
 ---
 
+Review #747
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: []
@@ -5994,6 +6744,7 @@ Review: "THE HARDEST CALC PROFESSOR IN CCNY. he makes u work for even just a 70 
 
 ---
 
+Review #748
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Caring]
@@ -6002,6 +6753,7 @@ Review: "he's a sweet guy but the worst professor ever. writing is chicken scrat
 
 ---
 
+Review #749
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Skip class? You won't pass., Test heavy, Caring]
@@ -6010,6 +6762,7 @@ Review: "Very solid choice, especially if taking him during remote learning. Gra
 
 ---
 
+Review #750
 Professor: Anthony Paolillo | Course: MATH21300 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Beware of pop quizzes, Tough grader]
@@ -6018,6 +6771,7 @@ Review: "He seems like a nice guy, but he goes out of his way to make the class 
 
 ---
 
+Review #751
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: []
@@ -6026,6 +6780,7 @@ Review: "Tests were extremely difficult."
 
 ---
 
+Review #752
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Skip class? You won't pass., Test heavy]
@@ -6034,6 +6789,7 @@ Review: "Professor acts like he cares about the students, but doesn't! Dont be f
 
 ---
 
+Review #753
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, Accessible outside class, Clear grading criteria]
@@ -6042,6 +6798,7 @@ Review: "One of the better professors in CCNY when it comes to Math. He grades l
 
 ---
 
+Review #754
 Professor: Anthony Paolillo | Course: MATH19000 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Gives good feedback, Respected, Test heavy]
@@ -6050,6 +6807,7 @@ Review: "If you stayed away from Math in high school, or haven't taken math in a
 
 ---
 
+Review #755
 Professor: Anthony Paolillo | Course: MATH19000 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Accessible outside class, Lecture heavy, Caring]
@@ -6058,6 +6816,7 @@ Review: "He's one of the most understanding and non-judgmental professor in CCNY
 
 ---
 
+Review #756
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 4.0 | Difficulty: 4.0
 
 Tags: [Respected, Test heavy, Caring]
@@ -6066,6 +6825,7 @@ Review: "Professor Paolillo, is a very kind and sincere teacher, he clearly care
 
 ---
 
+Review #757
 Professor: Anthony Paolillo | Course: MATH213 | Rating: 1.0 | Difficulty: 5.0
 
 Tags: [Test heavy, Tough grader]
@@ -6074,6 +6834,7 @@ Review: "STAY AWAY FOR YOUR OWN GOOD!!!! This guy is extremely boring and is wor
 
 ---
 
+Review #758
 Professor: Anthony Paolillo | Course: MATH212 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Lots of homework, Test heavy]
@@ -6082,6 +6843,7 @@ Review: "Tests are 85% of the class. He words questions and teaches in a weird w
 
 ---
 
+Review #759
 Professor: Anthony Paolillo | Course: MATH212 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Lots of homework, Test heavy, Tough grader]
@@ -6090,6 +6852,7 @@ Review: "stay away from him. it will make your life much easier. if you want to 
 
 ---
 
+Review #760
 Professor: Anthony Paolillo | Course: MATH212 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: []
@@ -6098,6 +6861,7 @@ Review: "Lectures are typically all over the place, but take the notes anyway si
 
 ---
 
+Review #761
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [Gives good feedback, LOTS OF HOMEWORK, Hilarious]
@@ -6106,6 +6870,7 @@ Review: "I took Multivariable calculus with Professor Paoillo over the summer an
 
 ---
 
+Review #762
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 5.0 | Difficulty: 3.0
 
 Tags: []
@@ -6114,6 +6879,7 @@ Review: "I took Professor Paolillo's class over the summer and while MATLAB was 
 
 ---
 
+Review #763
 Professor: Anthony Paolillo | Course: MATH18000 | Rating: 4.0 | Difficulty: 2.0
 
 Tags: [Respected, Skip class? You won't pass., Caring]
@@ -6122,6 +6888,7 @@ Review: "This was my first class taken in city college, and this professor made 
 
 ---
 
+Review #764
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 4.0 | Difficulty: 5.0
 
 Tags: [Gives good feedback, Get ready to read, LOTS OF HOMEWORK]
@@ -6130,6 +6897,7 @@ Review: "His teaching style is confusing but if you self study his exams are com
 
 ---
 
+Review #765
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 4.0 | Difficulty: 3.0
 
 Tags: [Gives good feedback, LOTS OF HOMEWORK, Caring]
@@ -6138,6 +6906,7 @@ Review: "Don't understand the hate on here. At all. His lectures are generally e
 
 ---
 
+Review #766
 Professor: Anthony Paolillo | Course: MATH19000 | Rating: 2.0 | Difficulty: 5.0
 
 Tags: [Tough Grader, Get ready to read, TEST HEAVY]
@@ -6146,6 +6915,7 @@ Review: "Okay, so he is a pretty awkward guy but is very genuine about wanting y
 
 ---
 
+Review #767
 Professor: Anthony Paolillo | Course: MAT346 | Rating: 1.0 | Difficulty: 3.0
 
 Tags: []
@@ -6154,6 +6924,7 @@ Review: "Be ready to read and learn on your own. When going over the materials i
 
 ---
 
+Review #768
 Professor: Anthony Paolillo | Course: MAT346 | Rating: 3.0 | Difficulty: 4.0
 
 Tags: [Tough Grader, Get ready to read, TEST HEAVY]
@@ -6162,6 +6933,7 @@ Review: "He is fair in grading tests. His tests are more comceptual and he wants
 
 ---
 
+Review #769
 Professor: Anthony Paolillo | Course: MATH20200 | Rating: 5.0 | Difficulty: 4.0
 
 Tags: [LOTS OF HOMEWORK, Inspirational, ACCESSIBLE OUTSIDE CLASS]
@@ -6170,6 +6942,7 @@ Review: "He is one of the best MATH professor in CCNY. He is very helpful and wa
 
 ---
 
+Review #770
 Professor: Anthony Paolillo | Course: MATH34600 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: [Get ready to read]
@@ -6178,6 +6951,7 @@ Review: "this guy is one of the saddest individuals i have ever met in general. 
 
 ---
 
+Review #771
 Professor: Anthony Paolillo | Course: MAT346 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -6186,6 +6960,7 @@ Review: "Awkward guy at times (many times). Assigns HW but never collects. (mayb
 
 ---
 
+Review #772
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 5.0 | Difficulty: 1.0
 
 Tags: []
@@ -6194,6 +6969,7 @@ Review: "He really wants his students to do well and understand. He shows easier
 
 ---
 
+Review #773
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 1.5 | Difficulty: 3.0
 
 Tags: []
@@ -6202,6 +6978,7 @@ Review: "Pretty bad and monotonous when it comes to teaching, so expect to teach
 
 ---
 
+Review #774
 Professor: Anthony Paolillo | Course: MATH18000 | Rating: 4.5 | Difficulty: 2.0
 
 Tags: []
@@ -6210,6 +6987,7 @@ Review: "He grades fair and VERY lenient when grading exams. Always looks for an
 
 ---
 
+Review #775
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 2.5 | Difficulty: 3.0
 
 Tags: []
@@ -6218,6 +6996,7 @@ Review: "Its not a really hard class if you know how to self study a lot, and if
 
 ---
 
+Review #776
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 3.0 | Difficulty: 3.0
 
 Tags: []
@@ -6226,6 +7005,7 @@ Review: "He does say corny jokes but some are funny. He isn't very clear at teac
 
 ---
 
+Review #777
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 1.0 | Difficulty: 4.0
 
 Tags: []
@@ -6234,6 +7014,7 @@ Review: "This professor really doesn't know now to teach. Most of my studying wa
 
 ---
 
+Review #778
 Professor: Anthony Paolillo | Course: MAT20300 | Rating: 3.0 | Difficulty: 2.0
 
 Tags: []
@@ -6242,6 +7023,7 @@ Review: "Be prepared for super corny jokes that he only laughs at. He is a prett
 
 ---
 
+Review #779
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 1.5 | Difficulty: 4.0
 
 Tags: []
@@ -6250,6 +7032,7 @@ Review: "Smart guy, but very bad at teaching. He often gets confused himself and
 
 ---
 
+Review #780
 Professor: Anthony Paolillo | Course: MATH203 | Rating: 2.0 | Difficulty: 3.0
 
 Tags: []

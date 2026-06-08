@@ -37,10 +37,11 @@ def retrieve(collection, model: SentenceTransformer, query: str) -> list[dict]:
 
 def build_context(chunks: list[dict]) -> str:
     parts = []
-    for i, c in enumerate(chunks, 1):
+    for c in chunks:
         m = c["metadata"]
+        chunk_id = m.get("chunk_id", "?")
         header = (
-            f"[{i}] Professor: {m.get('professor', '?')} | "
+            f"[Review #{chunk_id}] Professor: {m.get('professor', '?')} | "
             f"Course: {m.get('course_normalized', m.get('course_raw', '?'))} | "
             f"Rating: {m.get('rating', '?')} | "
             f"Difficulty: {m.get('difficulty', '?')} | "
