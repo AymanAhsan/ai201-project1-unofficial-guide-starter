@@ -8,6 +8,7 @@ result = collection.get(include=["documents", "metadatas"])
 print(f"{'ID':>4}  {'Professor':<30}  {'Course':^12}  {'Rating':^6}  {'Diff':^6}  Text")
 print("-" * 120)
 # Similarity values are based on cosine similarity, where 0 is identifical, and 2 is maxmially different.
+# Prints first 5 chunks with metadata and a text snippet.
 for doc, meta in zip(result["documents"], result["metadatas"]):
     snippet = doc.replace("\n", " ")[:70]
     print(

@@ -47,13 +47,13 @@
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-
+varies
 **Overlap:**
-
+0
 **Why these choices fit your documents:**
-
+Because the txt file has "---" between each review as a seperator, I decided to split the document by "---" and not use any overlap. This way, each chunk is a review and the model can understand the context of each review without any confusion from overlapping text.
 **Final chunk count:**
-
+781
 ---
 
 ## Embedding Model
@@ -65,9 +65,9 @@
      latency, and local vs. API-hosted. -->
 
 **Model used:**
-
+sentence-transformers/all-MiniLM-L6-v2
 **Production tradeoff reflection:**
-
+If deploying for real users with no cost constraints, I would consider a larger, more accurate model like "sentence-transformers/all-mpnet-base-v2" for better semantic understanding. However, this would increase latency and resource usage, so a balance between accuracy and performance would be necessary.
 ---
 
 ## Grounded Generation
@@ -80,9 +80,12 @@
      the mechanism. -->
 
 **System prompt grounding instruction:**
-
+You are a helpful academic advisor for CCNY students.
+Answer questions strictly based on the student reviews provided below.
+If the reviews do not contain enough information to answer, say so — do not make up details.
+Be concise and cite specific professors, courses, or ratings when relevant.
 **How source attribution is surfaced in the response:**
-
+It references which review it gets the information from by mentioning the professor's name, course, or specific rating mentioned in the review. If the reviews do not contain enough information to answer, it explicitly states that it cannot provide an answer based on the available reviews.
 ---
 
 ## Evaluation Report
@@ -118,13 +121,13 @@
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
-
+Q2: Did Starshimer read the textbook for the first time mid class?
 **What the system returned:**
-
+There is no information about a person named Starshimer in the provided reviews.
 **Root cause (tied to a specific pipeline stage):**
-
+The chunking approach might've been bad. It recognizes the profesor by his full name, but not by just his last name.
 **What you would change to fix it:**
-
+I would change the chunking strategy to include more context around the professor's name, such as including the course name or other identifying information, to help the embedding model better capture the relevant information about Starshimer.
 ---
 
 ## Spec Reflection
@@ -133,7 +136,7 @@
      Answer both questions with at least 2–3 sentences each. -->
 
 **One way the spec helped you during implementation:**
-
+The spec provided a clear framework for structuring the system's behavior and response format, ensuring consistency in how information is retrieved and presented to users.
 **One way your implementation diverged from the spec, and why:**
 
 ---
